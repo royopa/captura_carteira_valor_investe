@@ -1,112 +1,1122 @@
 ano,mes,ano_mes,corretora,desempenho_mes,desempenho_ano
-2020,08,202008,Ágora Investimentos,2.93,-2.27
-2020,08,202008,Ativa Investimentos,2.2,-26.71
-2020,08,202008,BB Investimentos,4.56,5.56
-2020,08,202008,CM Capital Corretora 3,-3.98,-18.08
-2020,08,202008,Elite Investimentos,1.74,4.86
-2020,08,202008,Genial Investimentos,9.58,13.28
-2020,08,202008,Guide Investimentos,-7.91,27.36
-2020,08,202008,Mirae Corretora,4.9,15.84
-2020,08,202008,Modalmais,-5.06,-3.91
-2020,08,202008,MyCAP Investimentos 3,5.76,-2.03
-2020,08,202008,Necton,1.05,-7.06
-2020,08,202008,Nova Futura Investimentos,-0.08,33.0
-2020,08,202008,Planner Corretora,-0.19,-5.21
-2020,08,202008,Safra Corretora,0.79,-21.34
-2020,08,202008,Santander Corretora,-6.23,-39.71
-2020,08,202008,Socopa Corretora,-2.95,-22.46
-2020,08,202008,Terra Investimentos,7.46,-12.91
-2020,08,202008,XP Investimentos,5.8,-25.19
-2020,07,202007,Ágora Investimentos,10.48,-5.05
-2020,07,202007,Ativa Investimentos,10.36,-28.28
-2020,07,202007,BB Investimentos,19.37,0.96
-2020,07,202007,CM Capital Corretora 3,15.09,-14.68
-2020,07,202007,Elite Investimentos,6.65,3.07
-2020,07,202007,Genial Investimentos,16.13,3.38
-2020,07,202007,Guide Investimentos,14.59,38.3
-2020,07,202007,Mirae Corretora,18.19,10.43
-2020,07,202007,Modalmais,4.47,1.2
-2020,07,202007,MyCAP Investimentos 3,7.62,-7.37
-2020,07,202007,Necton,13.89,-8.03
-2020,07,202007,Nova Futura Investimentos,15.95,33.11
-2020,07,202007,Planner Corretora,8.94,-5.02
-2020,07,202007,Safra Corretora,9.15,-21.96
-2020,07,202007,Santander Corretora,7.76,-35.71
-2020,07,202007,Socopa Corretora,5.34,-20.1
-2020,07,202007,Terra Investimentos,7.8,-18.96
-2020,07,202007,XP Investimentos,8.67,-29.29
-2020,06,202006,Ágora Investimentos,10.86,-14.06
-2020,06,202006,Ativa Investimentos,6.08,-35.02
-2020,06,202006,BB Investimentos,10.6,-15.42
-2020,06,202006,CM Capital Corretora 3,15.27,-25.87
-2020,06,202006,Elite Investimentos,10.16,-3.36
-2020,06,202006,Genial Investimentos,13.85,-10.98
-2020,06,202006,Guide Investimentos,17.77,20.7
-2020,06,202006,Mirae Corretora,6.22,-6.57
-2020,06,202006,Modalmais,13.32,-3.13
-2020,06,202006,MyCAP Investimentos 3,4.54,-13.93
-2020,06,202006,Necton,10.17,-19.24
-2020,06,202006,Nova Futura Investimentos,10.53,14.8
-2020,06,202006,Planner Corretora,10.56,-12.81
-2020,06,202006,Safra Corretora,12.09,-28.5
-2020,06,202006,Santander Corretora,5.06,-40.34
-2020,06,202006,Socopa Corretora,6.05,-24.15
-2020,06,202006,Terra Investimentos,10.74,-24.83
-2020,06,202006,XP Investimentos,3.46,-34.94
-2020,05,202005,Ágora Investimentos,7.47,-22.48
-2020,05,202005,Ativa Investimentos,0.19,-38.74
-2020,05,202005,BB Investimentos,15.69,-23.53
-2020,05,202005,CM Capital Corretora 3,-1.2,-35.69
-2020,05,202005,Elite Investimentos,15.43,-12.28
-2020,05,202005,Genial Investimentos,4.21,-21.81
-2020,05,202005,Guide Investimentos,15.26,2.48
-2020,05,202005,Mirae Corretora,16.23,-12.04
-2020,05,202005,Modalmais,1.67,-14.51
-2020,05,202005,MyCAP Investimentos 3,16.02,-17.67
-2020,05,202005,Necton,6.47,-26.7
-2020,05,202005,Nova Futura Investimentos,17.19,3.86
-2020,05,202005,Planner Corretora,7.49,-21.14
-2020,05,202005,Safra Corretora,9.71,-36.21
-2020,05,202005,Santander Corretora,-0.95,-43.21
-2020,05,202005,Socopa Corretora,5.58,-28.48
-2020,05,202005,Terra Investimentos,13.46,-32.12
-2020,05,202005,XP Investimentos,3.19,-37.11
-2020,04,202004,Ágora Investimentos,5.62,-27.87
-2020,04,202004,Ativa Investimentos,4.1,-38.86
-2020,04,202004,BB Investimentos,12.27,-33.9
-2020,04,202004,CM Capital Corretora 3,15.95,-34.91
-2020,04,202004,Elite Investimentos,6.51,-24.0
-2020,04,202004,Genial Investimentos,7.5,-24.96
-2020,04,202004,Guide Investimentos,26.22,-11.09
-2020,04,202004,Mirae Corretora,18.38,-24.32
-2020,04,202004,Modalmais,29.78,-15.92
-2020,04,202004,MyCAP Investimentos 3,7.97,-29.04
-2020,04,202004,Necton,14.77,-31.15
-2020,04,202004,Nova Futura Investimentos,4.39,-11.37
-2020,04,202004,Planner Corretora,12.34,-26.63
-2020,04,202004,Safra Corretora,5.15,-41.85
-2020,04,202004,Santander Corretora,16.69,-42.67
-2020,04,202004,Socopa Corretora,10.62,-32.26
-2020,04,202004,Terra Investimentos,8.0,-40.17
-2020,04,202004,XP Investimentos,5.25,-39.05
-2020,03,202003,Ágora Investimentos,-27.35,-31.71
-2020,03,202003,Ativa Investimentos,-35.82,-41.27
-2020,03,202003,BB Investimentos,-37.19,-41.13
-2020,03,202003,CM Capital Corretora 3,-36.66,-43.86
-2020,03,202003,Elite Investimentos,-26.67,-28.65
-2020,03,202003,Genial Investimentos,-31.68,-30.2
-2020,03,202003,Guide Investimentos,-31.04,-29.56
-2020,03,202003,Mirae Corretora,-31.87,-36.07
-2020,03,202003,Modalmais,-25.32,-35.21
-2020,03,202003,MyCAP Investimentos 3,-29.07,-34.27
-2020,03,202003,Necton,-36.63,-40.01
-2020,03,202003,Nova Futura Investimentos,-18.43,-15.1
-2020,03,202003,Planner Corretora,-24.61,-34.69
-2020,03,202003,Safra Corretora,-38.75,-44.7
-2020,03,202003,Santander Corretora,-45.02,-50.87
-2020,03,202003,Socopa Corretora,-24.49,-38.76
-2020,03,202003,Terra Investimentos,-37.74,-44.6
-2020,03,202003,XP Investimentos,-39.44,-42.09
+2012,01,201201,Ágora Investimentos,7.29,7.29
+2012,01,201201,Ativa Investimentos,5.35,5.35
+2012,01,201201,Citi Corretora,10.93,10.93
+2012,01,201201,Genial Investimentos,10.62,10.62
+2012,01,201201,Guide Investimentos,9.0,9.0
+2012,01,201201,Planner Corretora,11.43,11.43
+2012,01,201201,Rico Corretora,9.03,9.03
+2012,01,201201,Santander Corretora,5.11,5.11
+2012,01,201201,Souza Barros CCT,8.25,8.25
+2012,01,201201,XP Investimentos,5.49,5.49
+2012,02,201202,Ágora Investimentos,13.02,21.26
+2012,02,201202,Ativa Investimentos,7.88,13.65
+2012,02,201202,Citi Corretora,5.2,16.7
+2012,02,201202,Genial Investimentos,5.27,16.45
+2012,02,201202,Guide Investimentos,8.11,17.84
+2012,02,201202,Planner Corretora,10.31,22.93
+2012,02,201202,Rico Corretora,10.81,20.81
+2012,02,201202,Santander Corretora,7.36,12.84
+2012,02,201202,Souza Barros CCT,9.2,18.2
+2012,02,201202,XP Investimentos,7.33,13.23
+2012,03,201203,Ágora Investimentos,-4.27,16.08
+2012,03,201203,Ativa Investimentos,-2.7,10.58
+2012,03,201203,Citi Corretora,2.09,19.13
+2012,03,201203,Genial Investimentos,-2.17,13.92
+2012,03,201203,Guide Investimentos,6.32,25.29
+2012,03,201203,Planner Corretora,-8.57,12.4
+2012,03,201203,Rico Corretora,0.88,21.88
+2012,03,201203,Santander Corretora,0.08,12.94
+2012,03,201203,Souza Barros CCT,9.81,29.8
+2012,03,201203,XP Investimentos,1.04,14.4
+2012,04,201204,Ágora Investimentos,1.79,18.16
+2012,04,201204,Ativa Investimentos,-4.84,5.23
+2012,04,201204,Citi Corretora,-0.42,18.63
+2012,04,201204,Genial Investimentos,4.73,19.31
+2012,04,201204,Guide Investimentos,4.82,31.32
+2012,04,201204,Planner Corretora,-6.87,4.67
+2012,04,201204,Rico Corretora,2.45,24.86
+2012,04,201204,Santander Corretora,0.58,13.6
+2012,04,201204,Souza Barros CCT,3.14,33.88
+2012,04,201204,XP Investimentos,-5.18,8.47
+2012,05,201205,Ágora Investimentos,-11.27,4.85
+2012,05,201205,Ativa Investimentos,-9.75,-5.03
+2012,05,201205,Citi Corretora,-11.21,5.33
+2012,05,201205,Genial Investimentos,-12.89,3.93
+2012,05,201205,Guide Investimentos,-9.3,19.11
+2012,05,201205,Planner Corretora,-16.44,-12.54
+2012,05,201205,Rico Corretora,-7.32,15.72
+2012,05,201205,Santander Corretora,-10.82,1.31
+2012,05,201205,Souza Barros CCT,-0.97,32.58
+2012,05,201205,XP Investimentos,-7.62,0.2
+2012,06,201206,Ágora Investimentos,5.18,10.28
+2012,06,201206,Ativa Investimentos,6.74,1.38
+2012,06,201206,Citi Corretora,8.4,14.17
+2012,06,201206,Genial Investimentos,4.21,8.3
+2012,06,201206,Guide Investimentos,5.16,25.26
+2012,06,201206,Planner Corretora,-5.29,-17.17
+2012,06,201206,Rico Corretora,3.32,19.57
+2012,06,201206,Santander Corretora,2.86,4.21
+2012,06,201206,Souza Barros CCT,0.01,32.59
+2012,06,201206,XP Investimentos,5.35,5.57
+2012,07,201207,Ágora Investimentos,6.83,17.81
+2012,07,201207,Ativa Investimentos,1.88,3.28
+2012,07,201207,Citi Corretora,-1.73,12.2
+2012,07,201207,Genial Investimentos,1.36,9.78
+2012,07,201207,Guide Investimentos,-5.99,17.76
+2012,07,201207,Planner Corretora,-4.8,-21.14
+2012,07,201207,Rico Corretora,5.37,25.99
+2012,07,201207,Santander Corretora,5.15,9.58
+2012,07,201207,Souza Barros CCT,1.42,34.48
+2012,07,201207,XP Investimentos,-0.13,5.43
+2012,08,201208,Ágora Investimentos,-0.11,17.68
+2012,08,201208,Ativa Investimentos,-1.78,1.44
+2012,08,201208,Citi Corretora,-0.64,11.49
+2012,08,201208,Genial Investimentos,0.22,10.02
+2012,08,201208,Guide Investimentos,-3.6,13.51
+2012,08,201208,Planner Corretora,5.25,-17.0
+2012,08,201208,Rico Corretora,0.66,26.81
+2012,08,201208,Santander Corretora,1.14,10.82
+2012,08,201208,Souza Barros CCT,2.17,37.4
+2012,08,201208,XP Investimentos,0.23,5.67
+2012,09,201209,Ágora Investimentos,7.98,27.07
+2012,09,201209,Ativa Investimentos,5.08,6.59
+2012,09,201209,Citi Corretora,1.2,12.82
+2012,09,201209,Genial Investimentos,4.71,15.21
+2012,09,201209,Guide Investimentos,5.43,19.68
+2012,09,201209,Planner Corretora,1.46,-15.79
+2012,09,201209,Rico Corretora,4.01,31.9
+2012,09,201209,Santander Corretora,4.6,15.92
+2012,09,201209,Souza Barros CCT,5.41,44.84
+2012,09,201209,XP Investimentos,4.01,9.91
+2012,10,201210,Ágora Investimentos,1.86,29.44
+2012,10,201210,Ativa Investimentos,6.04,13.02
+2012,10,201210,Citi Corretora,-0.63,12.11
+2012,10,201210,Genial Investimentos,-2.65,12.16
+2012,10,201210,Guide Investimentos,-3.19,15.86
+2012,10,201210,Planner Corretora,-0.95,-16.59
+2012,10,201210,Rico Corretora,-7.31,22.25
+2012,10,201210,Santander Corretora,2.47,18.78
+2012,10,201210,Souza Barros CCT,0.38,45.39
+2012,10,201210,XP Investimentos,-1.45,8.31
+2012,11,201211,Ágora Investimentos,-0.26,29.1
+2012,11,201211,Ativa Investimentos,3.37,16.84
+2012,11,201211,Citi Corretora,-1.08,10.9
+2012,11,201211,Genial Investimentos,7.5,20.57
+2012,11,201211,Guide Investimentos,-3.77,11.49
+2012,11,201211,Planner Corretora,0.01,-16.59
+2012,11,201211,Rico Corretora,3.87,26.98
+2012,11,201211,Santander Corretora,1.12,20.11
+2012,11,201211,Souza Barros CCT,3.44,50.4
+2012,11,201211,XP Investimentos,4.11,12.76
+2012,12,201212,Ágora Investimentos,7.85,39.23
+2012,12,201212,Ativa Investimentos,13.23,32.29
+2012,12,201212,Citi Corretora,7.37,19.07
+2012,12,201212,Genial Investimentos,5.98,27.78
+2012,12,201212,Guide Investimentos,13.12,26.11
+2012,12,201212,Planner Corretora,1.24,-15.55
+2012,12,201212,Rico Corretora,6.7,35.49
+2012,12,201212,Santander Corretora,5.62,26.86
+2012,12,201212,Souza Barros CCT,1.09,52.04
+2012,12,201212,XP Investimentos,10.02,24.06
+2013,01,201301,Ágora Investimentos,4.83,4.83
+2013,01,201301,Ativa Investimentos,0.52,0.52
+2013,01,201301,Citi Corretora,5.63,5.63
+2013,01,201301,Genial Investimentos,-1.49,-1.49
+2013,01,201301,Guide Investimentos,-4.62,-4.62
+2013,01,201301,Planner Corretora,-4.48,-4.48
+2013,01,201301,Rico Corretora,-1.11,-1.11
+2013,01,201301,Santander Corretora,2.06,2.06
+2013,01,201301,Souza Barros CCT,3.4,3.4
+2013,01,201301,XP Investimentos,5.91,5.91
+2013,02,201302,Ágora Investimentos,2.18,7.12
+2013,02,201302,Ativa Investimentos,-3.26,-2.76
+2013,02,201302,Citi Corretora,-1.34,4.21
+2013,02,201302,Genial Investimentos,-0.16,-1.65
+2013,02,201302,Guide Investimentos,-3.31,-7.78
+2013,02,201302,Planner Corretora,-3.28,-7.61
+2013,02,201302,Rico Corretora,-2.6,-3.68
+2013,02,201302,Santander Corretora,1.18,3.26
+2013,02,201302,Souza Barros CCT,-1.54,1.81
+2013,02,201302,XP Investimentos,4.61,10.79
+2013,03,201303,Ágora Investimentos,-1.68,5.32
+2013,03,201303,Ativa Investimentos,-1.86,-4.57
+2013,03,201303,Citi Corretora,0.89,5.14
+2013,03,201303,Genial Investimentos,1.44,-0.23
+2013,03,201303,Guide Investimentos,-1.95,-9.58
+2013,03,201303,Planner Corretora,1.14,-6.56
+2013,03,201303,Rico Corretora,2.77,-1.01
+2013,03,201303,Santander Corretora,-1.07,2.16
+2013,03,201303,Souza Barros CCT,-0.55,1.25
+2013,03,201303,XP Investimentos,-1.74,8.86
+2013,04,201304,Ágora Investimentos,5.83,11.46
+2013,04,201304,Ativa Investimentos,1.22,-3.4
+2013,04,201304,Citi Corretora,-1.0,4.09
+2013,04,201304,Genial Investimentos,3.19,2.95
+2013,04,201304,Guide Investimentos,1.57,-8.16
+2013,04,201304,Planner Corretora,-0.84,-7.34
+2013,04,201304,Rico Corretora,1.89,0.86
+2013,04,201304,Santander Corretora,4.18,6.43
+2013,04,201304,Souza Barros CCT,-5.34,-4.16
+2013,04,201304,XP Investimentos,-7.43,0.78
+2013,05,201305,Ágora Investimentos,1.08,12.66
+2013,05,201305,Ativa Investimentos,-2.6,-5.91
+2013,05,201305,Citi Corretora,0.16,4.26
+2013,05,201305,Genial Investimentos,4.46,7.54
+2013,05,201305,Guide Investimentos,-0.55,-8.66
+2013,05,201305,Planner Corretora,0.7,-6.7
+2013,05,201305,Rico Corretora,0.45,1.31
+2013,05,201305,Santander Corretora,3.64,10.3
+2013,05,201305,Souza Barros CCT,-1.44,-5.54
+2013,05,201305,XP Investimentos,-0.66,0.11
+2013,06,201306,Ágora Investimentos,-10.67,0.64
+2013,06,201306,Ativa Investimentos,-9.4,-14.76
+2013,06,201306,Citi Corretora,-10.05,-6.22
+2013,06,201306,Genial Investimentos,-5.14,2.02
+2013,06,201306,Guide Investimentos,-5.94,-14.09
+2013,06,201306,Planner Corretora,-10.38,-16.38
+2013,06,201306,Rico Corretora,-6.26,-5.03
+2013,06,201306,Santander Corretora,-6.22,3.44
+2013,06,201306,Souza Barros CCT,-6.92,-12.08
+2013,06,201306,XP Investimentos,-9.42,-9.32
+2013,07,201307,Ágora Investimentos,5.79,6.47
+2013,07,201307,Ativa Investimentos,2.02,-13.04
+2013,07,201307,Citi Corretora,5.0,-1.53
+2013,07,201307,Genial Investimentos,3.52,5.61
+2013,07,201307,Guide Investimentos,4.32,-10.38
+2013,07,201307,Planner Corretora,4.07,-12.98
+2013,07,201307,Rico Corretora,3.18,-2.01
+2013,07,201307,Santander Corretora,3.16,6.71
+2013,07,201307,Souza Barros CCT,5.87,-6.91
+2013,07,201307,XP Investimentos,2.69,-6.88
+2013,08,201308,Ágora Investimentos,0.96,7.49
+2013,08,201308,Ativa Investimentos,3.7,-9.82
+2013,08,201308,Citi Corretora,6.24,4.61
+2013,08,201308,Genial Investimentos,0.18,5.8
+2013,08,201308,Guide Investimentos,2.59,-8.05
+2013,08,201308,Planner Corretora,-0.69,-13.58
+2013,08,201308,Rico Corretora,2.62,0.56
+2013,08,201308,Santander Corretora,2.9,9.81
+2013,08,201308,Souza Barros CCT,-0.19,-7.09
+2013,08,201308,XP Investimentos,-3.14,-9.8
+2013,09,201309,Ágora Investimentos,3.74,11.51
+2013,09,201309,Ativa Investimentos,3.3,-6.84
+2013,09,201309,Citi Corretora,0.25,4.87
+2013,09,201309,Genial Investimentos,3.69,9.7
+2013,09,201309,Guide Investimentos,3.78,-4.58
+2013,09,201309,Planner Corretora,5.56,-8.77
+2013,09,201309,Rico Corretora,6.54,7.13
+2013,09,201309,Santander Corretora,0.46,10.31
+2013,09,201309,Souza Barros CCT,3.37,-3.96
+2013,09,201309,XP Investimentos,3.98,-6.21
+2013,10,201310,Ágora Investimentos,9.11,21.67
+2013,10,201310,Ativa Investimentos,4.17,-2.96
+2013,10,201310,Citi Corretora,7.07,12.29
+2013,10,201310,Genial Investimentos,4.25,14.36
+2013,10,201310,Guide Investimentos,5.02,0.21
+2013,10,201310,Planner Corretora,0.47,-8.34
+2013,10,201310,Rico Corretora,3.58,10.97
+2013,10,201310,Santander Corretora,3.37,14.03
+2013,10,201310,Souza Barros CCT,5.45,1.27
+2013,10,201310,XP Investimentos,3.26,-3.16
+2013,11,201311,Ágora Investimentos,-2.6,18.5
+2013,11,201311,Ativa Investimentos,-5.87,-8.65
+2013,11,201311,Citi Corretora,-1.69,10.39
+2013,11,201311,Genial Investimentos,3.36,18.2
+2013,11,201311,Guide Investimentos,-2.56,-2.35
+2013,11,201311,Planner Corretora,-1.77,-9.97
+2013,11,201311,Rico Corretora,1.0,12.08
+2013,11,201311,Santander Corretora,1.33,15.55
+2013,11,201311,Souza Barros CCT,-1.89,-0.64
+2013,11,201311,XP Investimentos,-1.17,-4.29
+2013,12,201312,Ágora Investimentos,-3.72,14.09
+2013,12,201312,Ativa Investimentos,0.34,-8.34
+2013,12,201312,Citi Corretora,-2.0,8.18
+2013,12,201312,Genial Investimentos,-3.19,14.43
+2013,12,201312,Guide Investimentos,-2.3,-4.6
+2013,12,201312,Planner Corretora,-4.24,-13.78
+2013,12,201312,Rico Corretora,-3.35,8.32
+2013,12,201312,Santander Corretora,1.8,17.63
+2013,12,201312,Souza Barros CCT,-3.95,-4.57
+2013,12,201312,XP Investimentos,-1.51,-5.74
+2014,01,201401,Ágora Investimentos,-6.35,-6.35
+2014,01,201401,Ativa Investimentos,-7.17,-7.17
+2014,01,201401,BB Investimentos,-10.32,-10.32
+2014,01,201401,BTG Pactual,-3.91,-3.91
+2014,01,201401,Citi Corretora,-7.86,-7.86
+2014,01,201401,Genial Investimentos,-5.91,-5.91
+2014,01,201401,Guide Investimentos,-7.75,-7.75
+2014,01,201401,Planner Corretora,-9.45,-9.45
+2014,01,201401,Rico Corretora,-8.28,-8.28
+2014,01,201401,Santander Corretora,-11.0,-11.0
+2014,01,201401,Souza Barros CCT,-6.98,-6.98
+2014,01,201401,Votorantim Corretora,-7.63,-7.63
+2014,01,201401,XP Investimentos,-8.98,-8.98
+2014,02,201402,Ágora Investimentos,0.11,-6.25
+2014,02,201402,Ativa Investimentos,-0.47,-7.61
+2014,02,201402,BB Investimentos,-3.72,-13.66
+2014,02,201402,Citi Corretora,-6.4,-13.76
+2014,02,201402,Genial Investimentos,3.14,-2.96
+2014,02,201402,Guide Investimentos,-3.74,-11.2
+2014,02,201402,Planner Corretora,-2.64,-11.84
+2014,02,201402,Rico Corretora,-1.92,-10.04
+2014,02,201402,Santander Corretora,0.82,-10.27
+2014,02,201402,Souza Barros CCT,-3.9,-10.61
+2014,02,201402,Votorantim Corretora,-6.84,-13.95
+2014,02,201402,XP Investimentos,2.38,-6.81
+2014,03,201403,Ágora Investimentos,4.03,-2.47
+2014,03,201403,Ativa Investimentos,3.51,-4.36
+2014,03,201403,BB Investimentos,1.19,-12.63
+2014,03,201403,Citi Corretora,5.88,-8.69
+2014,03,201403,Genial Investimentos,10.42,7.16
+2014,03,201403,Guide Investimentos,1.21,-10.13
+2014,03,201403,Planner Corretora,3.73,-8.55
+2014,03,201403,Rico Corretora,1.5,-8.69
+2014,03,201403,Santander Corretora,5.61,-5.24
+2014,03,201403,Souza Barros CCT,7.86,-3.58
+2014,03,201403,Votorantim Corretora,4.48,-10.09
+2014,03,201403,XP Investimentos,5.91,-1.31
+2014,04,201404,Ágora Investimentos,2.44,-0.09
+2014,04,201404,Ativa Investimentos,-2.49,-6.74
+2014,04,201404,BB Investimentos,1.39,-11.41
+2014,04,201404,Citi Corretora,0.78,-7.97
+2014,04,201404,Genial Investimentos,3.92,11.36
+2014,04,201404,Guide Investimentos,-3.92,-13.65
+2014,04,201404,Planner Corretora,0.78,-7.84
+2014,04,201404,Rico Corretora,1.66,-7.18
+2014,04,201404,Santander Corretora,1.38,-3.93
+2014,04,201404,Souza Barros CCT,6.82,2.99
+2014,04,201404,Votorantim Corretora,4.77,-5.8
+2014,04,201404,XP Investimentos,0.37,-0.94
+2014,05,201405,Ágora Investimentos,2.87,2.78
+2014,05,201405,Ativa Investimentos,1.0,-5.81
+2014,05,201405,BB Investimentos,5.16,-6.84
+2014,05,201405,Citi Corretora,0.09,-7.89
+2014,05,201405,Genial Investimentos,4.52,16.39
+2014,05,201405,Guide Investimentos,1.51,-12.34
+2014,05,201405,Planner Corretora,-0.16,-7.99
+2014,05,201405,Rico Corretora,-0.2,-7.36
+2014,05,201405,Santander Corretora,8.71,4.44
+2014,05,201405,Souza Barros CCT,-1.16,1.8
+2014,05,201405,Votorantim Corretora,-1.16,-6.9
+2014,05,201405,XP Investimentos,-1.06,-1.99
+2014,06,201406,Ágora Investimentos,7.33,10.31
+2014,06,201406,Ativa Investimentos,7.17,0.94
+2014,06,201406,BB Investimentos,7.94,0.55
+2014,06,201406,Citi Corretora,1.81,-6.22
+2014,06,201406,Genial Investimentos,8.42,26.19
+2014,06,201406,Guide Investimentos,0.38,-12.01
+2014,06,201406,Planner Corretora,2.0,-6.15
+2014,06,201406,Rico Corretora,3.65,-3.98
+2014,06,201406,Santander Corretora,6.44,11.17
+2014,06,201406,Souza Barros CCT,7.06,8.99
+2014,06,201406,Votorantim Corretora,3.62,-3.53
+2014,06,201406,XP Investimentos,4.43,2.35
+2014,07,201407,Ágora Investimentos,-1.99,8.12
+2014,07,201407,Ativa Investimentos,-1.5,-0.57
+2014,07,201407,BB Investimentos,-7.13,-6.62
+2014,07,201407,Citi Corretora,0.3,-5.94
+2014,07,201407,Genial Investimentos,1.09,27.57
+2014,07,201407,Guide Investimentos,3.1,-9.28
+2014,07,201407,Planner Corretora,0.98,-5.23
+2014,07,201407,Rico Corretora,1.92,-2.14
+2014,07,201407,Santander Corretora,-1.2,9.83
+2014,07,201407,Souza Barros CCT,1.25,10.35
+2014,07,201407,Votorantim Corretora,1.5,-2.08
+2014,07,201407,XP Investimentos,2.35,4.76
+2014,08,201408,Ágora Investimentos,8.34,17.13
+2014,08,201408,Ativa Investimentos,10.68,10.05
+2014,08,201408,BB Investimentos,8.64,1.45
+2014,08,201408,Citi Corretora,7.7,1.3
+2014,08,201408,Genial Investimentos,7.13,36.66
+2014,08,201408,Guide Investimentos,1.82,-7.63
+2014,08,201408,Planner Corretora,5.84,0.31
+2014,08,201408,Rico Corretora,4.97,2.73
+2014,08,201408,Santander Corretora,11.21,22.14
+2014,08,201408,Souza Barros CCT,12.14,23.75
+2014,08,201408,Votorantim Corretora,13.13,10.78
+2014,08,201408,XP Investimentos,9.82,15.04
+2014,09,201409,Ágora Investimentos,-5.76,10.39
+2014,09,201409,Ativa Investimentos,-9.05,0.09
+2014,09,201409,BB Investimentos,-12.81,-11.54
+2014,09,201409,Citi Corretora,-9.58,-8.4
+2014,09,201409,Genial Investimentos,-9.51,23.66
+2014,09,201409,Guide Investimentos,-3.25,-10.64
+2014,09,201409,Planner Corretora,-2.23,-1.93
+2014,09,201409,Rico Corretora,-12.9,-10.52
+2014,09,201409,Santander Corretora,-16.44,2.06
+2014,09,201409,Souza Barros CCT,-10.91,10.24
+2014,09,201409,Votorantim Corretora,-14.92,-5.75
+2014,09,201409,XP Investimentos,-12.62,0.52
+2014,10,201410,Ágora Investimentos,1.28,11.8
+2014,10,201410,Ativa Investimentos,4.3,4.39
+2014,10,201410,BB Investimentos,-1.77,-13.11
+2014,10,201410,Citi Corretora,3.97,-4.77
+2014,10,201410,Genial Investimentos,5.18,30.07
+2014,10,201410,Guide Investimentos,2.0,-8.85
+2014,10,201410,Planner Corretora,-0.18,-2.1
+2014,10,201410,Rico Corretora,0.07,-10.46
+2014,10,201410,Santander Corretora,3.45,5.58
+2014,10,201410,Souza Barros CCT,4.32,15.01
+2014,10,201410,Votorantim Corretora,5.82,-0.27
+2014,10,201410,XP Investimentos,5.57,6.12
+2014,11,201411,Ágora Investimentos,3.04,15.2
+2014,11,201411,Ativa Investimentos,-1.77,2.54
+2014,11,201411,BB Investimentos,-1.41,-14.33
+2014,11,201411,Citi Corretora,4.28,-0.69
+2014,11,201411,Genial Investimentos,3.33,34.4
+2014,11,201411,Guide Investimentos,-4.41,-12.87
+2014,11,201411,Planner Corretora,-2.1,-4.16
+2014,11,201411,Rico Corretora,3.56,-7.27
+2014,11,201411,Santander Corretora,4.3,10.12
+2014,11,201411,Souza Barros CCT,0.8,15.93
+2014,11,201411,Votorantim Corretora,0.39,0.12
+2014,11,201411,XP Investimentos,2.07,8.32
+2014,12,201412,Ágora Investimentos,-4.57,9.93
+2014,12,201412,Ativa Investimentos,-10.88,-8.61
+2014,12,201412,BB Investimentos,-2.75,-16.69
+2014,12,201412,Citi Corretora,-6.47,-7.12
+2014,12,201412,Genial Investimentos,-5.94,26.42
+2014,12,201412,Guide Investimentos,-10.69,-22.18
+2014,12,201412,Planner Corretora,-5.75,-9.67
+2014,12,201412,Rico Corretora,-3.86,-10.85
+2014,12,201412,Santander Corretora,-4.47,5.2
+2014,12,201412,Souza Barros CCT,-5.3,9.78
+2014,12,201412,Votorantim Corretora,-11.41,-11.3
+2014,12,201412,XP Investimentos,-8.8,-1.21
+2015,01,201501,Ágora Investimentos,-5.85,-5.85
+2015,01,201501,Ativa Investimentos,-6.39,-6.39
+2015,01,201501,BB Investimentos,-9.84,-9.84
+2015,01,201501,Citi Corretora,-4.85,-4.85
+2015,01,201501,Genial Investimentos,-10.71,-10.71
+2015,01,201501,Guide Investimentos,-4.02,-4.02
+2015,01,201501,Planner Corretora,-3.2,-3.2
+2015,01,201501,Rico Corretora,-6.1,-6.1
+2015,01,201501,Santander Corretora,-12.68,-12.68
+2015,01,201501,Souza Barros CCT,-4.4,-4.4
+2015,01,201501,XP Investimentos,-6.94,-6.94
+2015,02,201502,Ágora Investimentos,-2.49,-8.2
+2015,02,201502,Ativa Investimentos,8.72,1.77
+2015,02,201502,BB Investimentos,8.91,-1.8
+2015,02,201502,Citi Corretora,9.34,4.04
+2015,02,201502,Genial Investimentos,17.32,4.76
+2015,02,201502,Guide Investimentos,10.33,5.89
+2015,02,201502,Planner Corretora,7.51,4.07
+2015,02,201502,Rico Corretora,8.28,1.67
+2015,02,201502,Santander Corretora,6.72,-6.81
+2015,02,201502,Souza Barros CCT,11.08,6.2
+2015,02,201502,XP Investimentos,4.38,-2.86
+2015,03,201503,Ágora Investimentos,-1.52,-9.6
+2015,03,201503,Ativa Investimentos,3.47,5.3
+2015,03,201503,BB Investimentos,4.98,3.09
+2015,03,201503,Citi Corretora,3.49,7.67
+2015,03,201503,Genial Investimentos,-3.4,1.19
+2015,03,201503,Guide Investimentos,2.54,8.58
+2015,03,201503,Planner Corretora,0.63,4.72
+2015,03,201503,Rico Corretora,2.64,4.36
+2015,03,201503,Santander Corretora,-0.42,-7.2
+2015,03,201503,Souza Barros CCT,5.12,11.63
+2015,03,201503,XP Investimentos,4.57,1.59
+2015,04,201504,Ágora Investimentos,5.62,-4.51
+2015,04,201504,Ativa Investimentos,8.13,13.86
+2015,04,201504,BB Investimentos,5.56,8.82
+2015,04,201504,Citi Corretora,5.16,13.23
+2015,04,201504,Genial Investimentos,6.76,8.03
+2015,04,201504,Guide Investimentos,6.39,15.53
+2015,04,201504,Planner Corretora,1.68,6.47
+2015,04,201504,Rico Corretora,8.94,13.7
+2015,04,201504,Santander Corretora,9.43,1.55
+2015,04,201504,Souza Barros CCT,10.62,23.49
+2015,04,201504,XP Investimentos,6.11,7.79
+2015,05,201505,Ágora Investimentos,-5.6,-9.85
+2015,05,201505,Ativa Investimentos,-0.97,12.76
+2015,05,201505,BB Investimentos,-2.94,5.62
+2015,05,201505,Citi Corretora,-1.34,11.72
+2015,05,201505,Genial Investimentos,-5.36,2.24
+2015,05,201505,Guide Investimentos,-4.43,10.41
+2015,05,201505,Planner Corretora,-3.59,2.65
+2015,05,201505,Rico Corretora,-3.97,9.19
+2015,05,201505,Santander Corretora,-1.9,-0.39
+2015,05,201505,Souza Barros CCT,-1.65,21.45
+2015,05,201505,XP Investimentos,-5.78,1.56
+2015,06,201506,Ágora Investimentos,0.87,-9.07
+2015,06,201506,Ativa Investimentos,-0.13,12.62
+2015,06,201506,BB Investimentos,4.1,9.96
+2015,06,201506,Citi Corretora,2.52,14.53
+2015,06,201506,Genial Investimentos,2.99,5.3
+2015,06,201506,Guide Investimentos,-1.03,9.27
+2015,06,201506,Planner Corretora,1.41,4.1
+2015,06,201506,Rico Corretora,-1.14,7.94
+2015,06,201506,Santander Corretora,4.97,4.56
+2015,06,201506,Souza Barros CCT,0.32,21.85
+2015,06,201506,XP Investimentos,2.88,4.49
+2015,07,201507,Ágora Investimentos,-0.54,-9.56
+2015,07,201507,Ativa Investimentos,-0.76,11.76
+2015,07,201507,BB Investimentos,-4.46,5.05
+2015,07,201507,Citi Corretora,-2.05,12.18
+2015,07,201507,Genial Investimentos,1.91,7.31
+2015,07,201507,Guide Investimentos,3.77,13.4
+2015,07,201507,Planner Corretora,-2.6,1.4
+2015,07,201507,Rico Corretora,1.98,10.07
+2015,07,201507,Santander Corretora,0.1,4.67
+2015,07,201507,XP Investimentos,-5.33,-1.08
+2015,08,201508,Ágora Investimentos,-8.86,-17.57
+2015,08,201508,Ativa Investimentos,-3.79,7.52
+2015,08,201508,BB Investimentos,-12.5,-8.08
+2015,08,201508,Citi Corretora,-4.39,7.26
+2015,08,201508,Genial Investimentos,-7.54,-0.79
+2015,08,201508,Guide Investimentos,-8.2,4.1
+2015,08,201508,Planner Corretora,-6.44,-5.14
+2015,08,201508,Rico Corretora,-6.62,2.78
+2015,08,201508,Santander Corretora,-6.43,-2.07
+2015,08,201508,XP Investimentos,-7.14,-8.15
+2015,09,201509,Ágora Investimentos,-4.34,-21.15
+2015,09,201509,Ativa Investimentos,1.08,8.69
+2015,09,201509,BB Investimentos,2.91,-5.4
+2015,09,201509,Citi Corretora,1.36,8.72
+2015,09,201509,Genial Investimentos,-3.64,-4.4
+2015,09,201509,Guide Investimentos,0.39,4.5
+2015,09,201509,Planner Corretora,-1.47,-6.53
+2015,09,201509,Rico Corretora,1.06,3.87
+2015,09,201509,Santander Corretora,-0.03,-2.09
+2015,09,201509,XP Investimentos,-3.76,-11.6
+2015,10,201510,Ágora Investimentos,8.22,-14.67
+2015,10,201510,Ativa Investimentos,-3.75,4.62
+2015,10,201510,BB Investimentos,-2.37,-7.65
+2015,10,201510,Citi Corretora,-0.35,8.34
+2015,10,201510,Genial Investimentos,0.81,-3.63
+2015,10,201510,Guide Investimentos,-3.41,0.93
+2015,10,201510,Planner Corretora,1.43,-5.2
+2015,10,201510,Rico Corretora,6.44,10.56
+2015,10,201510,Santander Corretora,-1.68,-3.74
+2015,10,201510,XP Investimentos,4.13,-7.94
+2015,11,201511,Ágora Investimentos,3.17,-11.96
+2015,11,201511,Ativa Investimentos,4.42,9.24
+2015,11,201511,BB Investimentos,6.1,-2.02
+2015,11,201511,Citi Corretora,1.89,10.38
+2015,11,201511,Genial Investimentos,1.89,-1.81
+2015,11,201511,Guide Investimentos,5.54,6.53
+2015,11,201511,Planner Corretora,-4.01,-9.0
+2015,11,201511,Rico Corretora,-1.2,9.23
+2015,11,201511,Santander Corretora,1.62,-2.18
+2015,11,201511,XP Investimentos,1.96,-6.14
+2015,12,201512,Ágora Investimentos,-7.35,-18.44
+2015,12,201512,Ativa Investimentos,-3.76,5.13
+2015,12,201512,BB Investimentos,-8.94,-10.78
+2015,12,201512,Citi Corretora,-2.71,7.39
+2015,12,201512,Genial Investimentos,-2.07,-3.85
+2015,12,201512,Guide Investimentos,2.09,8.76
+2015,12,201512,Planner Corretora,-2.76,-11.51
+2015,12,201512,Rico Corretora,-2.66,6.32
+2015,12,201512,Santander Corretora,-3.01,-5.12
+2015,12,201512,XP Investimentos,-2.77,-8.74
+2016,01,201601,Ágora Investimentos,-2.89,-2.89
+2016,01,201601,Ativa Investimentos,-3.2,-3.2
+2016,01,201601,BB Investimentos,-5.16,-5.16
+2016,01,201601,Citi Corretora,-5.01,-5.01
+2016,01,201601,Genial Investimentos,-3.75,-3.75
+2016,01,201601,Guide Investimentos,-1.25,-1.25
+2016,01,201601,Planner Corretora,-1.3,-1.3
+2016,01,201601,Rico Corretora,-3.29,-3.29
+2016,01,201601,Santander Corretora,-4.27,-4.27
+2016,01,201601,XP Investimentos,-7.04,-7.04
+2016,02,201602,Ágora Investimentos,8.42,5.29
+2016,02,201602,Ativa Investimentos,2.83,-0.46
+2016,02,201602,BB Investimentos,6.68,1.18
+2016,02,201602,Citi Corretora,-1.11,-6.07
+2016,02,201602,Genial Investimentos,0.01,-3.74
+2016,02,201602,Guide Investimentos,1.76,0.49
+2016,02,201602,Planner Corretora,1.94,0.61
+2016,02,201602,Rico Corretora,4.22,0.79
+2016,02,201602,Santander Corretora,1.5,-2.83
+2016,02,201602,XP Investimentos,0.77,-6.32
+2016,03,201603,Ágora Investimentos,10.5,16.34
+2016,03,201603,Ativa Investimentos,-3.57,-4.01
+2016,03,201603,BB Investimentos,13.99,15.33
+2016,03,201603,Citi Corretora,8.58,2.0
+2016,03,201603,Genial Investimentos,9.91,5.81
+2016,03,201603,Guide Investimentos,6.06,6.58
+2016,03,201603,Planner Corretora,8.45,9.1
+2016,03,201603,Rico Corretora,5.76,6.6
+2016,03,201603,Santander Corretora,1.41,-1.46
+2016,03,201603,XP Investimentos,8.96,2.08
+2016,04,201604,Ágora Investimentos,5.39,22.61
+2016,04,201604,Ativa Investimentos,4.76,0.56
+2016,04,201604,BB Investimentos,16.09,33.89
+2016,04,201604,Citi Corretora,4.7,6.79
+2016,04,201604,Genial Investimentos,4.91,11.0
+2016,04,201604,Guide Investimentos,7.64,14.72
+2016,04,201604,Planner Corretora,-0.94,8.07
+2016,04,201604,Rico Corretora,6.69,13.73
+2016,04,201604,Santander Corretora,8.19,6.61
+2016,04,201604,XP Investimentos,4.53,6.7
+2016,05,201605,Ágora Investimentos,-5.37,16.03
+2016,05,201605,Ativa Investimentos,-6.17,-5.65
+2016,05,201605,BB Investimentos,-13.38,15.98
+2016,05,201605,Citi Corretora,-1.64,5.04
+2016,05,201605,Genial Investimentos,-17.34,-8.25
+2016,05,201605,Guide Investimentos,2.48,17.57
+2016,05,201605,Planner Corretora,-8.95,-1.6
+2016,05,201605,Rico Corretora,-4.35,8.78
+2016,05,201605,Santander Corretora,-6.23,-0.03
+2016,05,201605,XP Investimentos,-4.46,1.95
+2016,06,201606,Ágora Investimentos,10.72,28.47
+2016,06,201606,Ativa Investimentos,6.32,0.31
+2016,06,201606,BB Investimentos,-7.52,7.25
+2016,06,201606,Citi Corretora,3.0,8.2
+2016,06,201606,Genial Investimentos,-0.18,-8.42
+2016,06,201606,Guide Investimentos,-4.08,12.76
+2016,06,201606,Planner Corretora,1.08,-0.54
+2016,06,201606,Rico Corretora,3.73,12.83
+2016,06,201606,Santander Corretora,14.3,14.26
+2016,06,201606,XP Investimentos,8.18,10.29
+2016,07,201607,Ágora Investimentos,12.1,44.02
+2016,07,201607,Ativa Investimentos,7.89,8.22
+2016,07,201607,BB Investimentos,10.02,18.0
+2016,07,201607,Citi Corretora,11.83,21.0
+2016,07,201607,Genial Investimentos,4.73,-4.09
+2016,07,201607,Guide Investimentos,9.83,23.85
+2016,07,201607,Planner Corretora,6.91,6.33
+2016,07,201607,Rico Corretora,9.66,23.74
+2016,07,201607,Santander Corretora,15.76,32.27
+2016,07,201607,XP Investimentos,8.43,19.59
+2016,08,201608,Ágora Investimentos,-3.89,38.42
+2016,08,201608,Ativa Investimentos,-1.29,6.83
+2016,08,201608,BB Investimentos,-4.23,13.01
+2016,08,201608,Citi Corretora,5.7,27.9
+2016,08,201608,Genial Investimentos,-2.39,-6.38
+2016,08,201608,Guide Investimentos,3.4,28.06
+2016,08,201608,Planner Corretora,2.82,9.33
+2016,08,201608,Rico Corretora,-1.62,21.73
+2016,08,201608,Santander Corretora,2.64,35.76
+2016,08,201608,XP Investimentos,7.26,28.27
+2016,09,201609,Ágora Investimentos,2.68,42.13
+2016,09,201609,Ativa Investimentos,2.62,9.62
+2016,09,201609,BB Investimentos,3.43,16.89
+2016,09,201609,Citi Corretora,-1.89,25.48
+2016,09,201609,Genial Investimentos,1.91,-4.59
+2016,09,201609,Guide Investimentos,0.44,28.62
+2016,09,201609,Planner Corretora,-1.15,8.07
+2016,09,201609,Rico Corretora,1.67,23.76
+2016,09,201609,Santander Corretora,0.18,36.0
+2016,09,201609,XP Investimentos,0.95,29.49
+2016,10,201610,Ágora Investimentos,17.36,66.81
+2016,10,201610,Ativa Investimentos,18.76,30.18
+2016,10,201610,BB Investimentos,21.91,42.49
+2016,10,201610,Citi Corretora,10.04,38.08
+2016,10,201610,Genial Investimentos,7.03,2.12
+2016,10,201610,Guide Investimentos,7.38,38.12
+2016,10,201610,Planner Corretora,0.74,8.88
+2016,10,201610,Rico Corretora,11.4,37.87
+2016,10,201610,Santander Corretora,18.11,60.63
+2016,10,201610,XP Investimentos,17.18,51.73
+2016,11,201611,Ágora Investimentos,-10.11,49.94
+2016,11,201611,Ativa Investimentos,-2.19,27.34
+2016,11,201611,BB Investimentos,3.85,47.97
+2016,11,201611,Citi Corretora,-5.11,31.02
+2016,11,201611,Genial Investimentos,-10.34,-8.44
+2016,11,201611,Guide Investimentos,-4.27,32.22
+2016,11,201611,Planner Corretora,-8.85,-0.76
+2016,11,201611,Rico Corretora,-10.66,23.17
+2016,11,201611,Santander Corretora,-10.62,43.57
+2016,11,201611,XP Investimentos,-2.62,47.76
+2016,12,201612,Ágora Investimentos,-1.04,48.39
+2016,12,201612,Ativa Investimentos,-5.87,19.86
+2016,12,201612,BB Investimentos,-1.06,46.4
+2016,12,201612,Citi Corretora,-4.73,24.82
+2016,12,201612,Genial Investimentos,-1.51,-9.82
+2016,12,201612,Guide Investimentos,-1.12,30.74
+2016,12,201612,Planner Corretora,-1.8,-2.55
+2016,12,201612,Rico Corretora,-1.82,20.93
+2016,12,201612,Santander Corretora,-0.15,43.36
+2016,12,201612,XP Investimentos,-7.13,37.23
+2017,01,201701,Ágora Investimentos,4.7,4.7
+2017,01,201701,Ativa Investimentos,6.18,6.18
+2017,01,201701,BB Investimentos,1.15,1.15
+2017,01,201701,Citi Corretora,5.02,5.02
+2017,01,201701,Genial Investimentos,7.72,7.72
+2017,01,201701,Guide Investimentos,-0.37,-0.37
+2017,01,201701,Planner Corretora,6.31,6.31
+2017,01,201701,Rico Corretora,6.83,6.83
+2017,01,201701,Santander Corretora,8.5,8.5
+2017,01,201701,XP Investimentos,5.38,5.38
+2017,02,201702,Ágora Investimentos,5.89,10.86
+2017,02,201702,Ativa Investimentos,5.79,12.33
+2017,02,201702,BB Investimentos,2.79,3.96
+2017,02,201702,Citi Corretora,2.27,7.4
+2017,02,201702,Genial Investimentos,1.44,9.27
+2017,02,201702,Guide Investimentos,7.03,6.64
+2017,02,201702,Planner Corretora,2.98,9.48
+2017,02,201702,Rico Corretora,3.73,10.81
+2017,02,201702,Santander Corretora,4.19,13.04
+2017,02,201702,XP Investimentos,2.08,7.57
+2017,03,201703,Ágora Investimentos,-3.55,6.92
+2017,03,201703,Ativa Investimentos,-5.8,5.81
+2017,03,201703,BB Investimentos,-5.15,-1.39
+2017,03,201703,Citi Corretora,-4.19,2.9
+2017,03,201703,Genial Investimentos,-3.99,4.91
+2017,03,201703,Guide Investimentos,-0.95,5.62
+2017,03,201703,Planner Corretora,1.5,11.12
+2017,03,201703,Rico Corretora,-1.13,9.56
+2017,03,201703,Santander Corretora,-0.19,12.83
+2017,03,201703,XP Investimentos,-3.19,4.14
+2017,04,201704,Ágora Investimentos,-5.68,0.85
+2017,04,201704,Ativa Investimentos,1.93,7.85
+2017,04,201704,BB Investimentos,3.54,2.1
+2017,04,201704,Citi Corretora,-1.06,1.81
+2017,04,201704,Genial Investimentos,10.65,16.08
+2017,04,201704,Guide Investimentos,-1.64,3.89
+2017,04,201704,Planner Corretora,1.69,13.0
+2017,04,201704,Rico Corretora,3.03,12.88
+2017,04,201704,Santander Corretora,0.1,12.94
+2017,04,201704,XP Investimentos,-1.98,2.08
+2017,05,201705,Ágora Investimentos,-4.24,-3.43
+2017,05,201705,Ativa Investimentos,-1.29,6.46
+2017,05,201705,BB Investimentos,-1.54,0.53
+2017,05,201705,Citi Corretora,-3.75,-2.01
+2017,05,201705,Genial Investimentos,2.57,19.06
+2017,05,201705,Guide Investimentos,-1.71,2.11
+2017,05,201705,Planner Corretora,-2.57,10.09
+2017,05,201705,Rico Corretora,-3.17,9.3
+2017,05,201705,Santander Corretora,-5.83,6.36
+2017,05,201705,XP Investimentos,-8.01,-6.1
+2017,06,201706,Ágora Investimentos,-2.68,-6.01
+2017,06,201706,Ativa Investimentos,0.27,6.75
+2017,06,201706,BB Investimentos,-1.94,-1.42
+2017,06,201706,Citi Corretora,0.18,-1.83
+2017,06,201706,Genial Investimentos,-0.15,18.88
+2017,06,201706,Guide Investimentos,-1.7,0.38
+2017,06,201706,Planner Corretora,0.56,10.7
+2017,06,201706,Rico Corretora,-1.13,8.06
+2017,06,201706,Santander Corretora,3.7,10.3
+2017,06,201706,XP Investimentos,-0.8,-6.85
+2017,07,201707,Ágora Investimentos,13.3,6.48
+2017,07,201707,Ativa Investimentos,8.16,15.46
+2017,07,201707,BB Investimentos,2.69,1.23
+2017,07,201707,Citi Corretora,3.33,1.44
+2017,07,201707,Genial Investimentos,4.43,24.15
+2017,07,201707,Guide Investimentos,1.16,1.54
+2017,07,201707,Planner Corretora,4.92,16.15
+2017,07,201707,Rico Corretora,5.5,14.0
+2017,07,201707,Santander Corretora,6.89,17.9
+2017,07,201707,XP Investimentos,5.44,-1.78
+2017,08,201708,Ágora Investimentos,11.58,18.82
+2017,08,201708,Ativa Investimentos,7.83,24.5
+2017,08,201708,BB Investimentos,11.01,12.38
+2017,08,201708,Citi Corretora,8.5,10.06
+2017,08,201708,Genial Investimentos,11.77,38.76
+2017,08,201708,Guide Investimentos,10.58,12.28
+2017,08,201708,Planner Corretora,3.31,20.0
+2017,08,201708,Rico Corretora,7.44,22.48
+2017,08,201708,Santander Corretora,10.77,30.59
+2017,08,201708,XP Investimentos,18.87,16.75
+2017,09,201709,Ágora Investimentos,9.89,30.57
+2017,09,201709,Ativa Investimentos,2.3,27.36
+2017,09,201709,BB Investimentos,9.2,22.71
+2017,09,201709,Citi Corretora,7.78,18.63
+2017,09,201709,Genial Investimentos,2.98,42.89
+2017,09,201709,Guide Investimentos,4.98,17.88
+2017,09,201709,Planner Corretora,5.04,26.04
+2017,09,201709,Rico Corretora,5.58,29.32
+2017,09,201709,Santander Corretora,7.47,40.35
+2017,09,201709,XP Investimentos,4.89,22.46
+2017,10,201710,Ágora Investimentos,1.15,32.08
+2017,10,201710,Ativa Investimentos,-2.22,24.54
+2017,10,201710,BB Investimentos,-3.1,18.91
+2017,10,201710,Citi Corretora,2.64,21.76
+2017,10,201710,Genial Investimentos,1.59,45.17
+2017,10,201710,Guide Investimentos,2.87,21.26
+2017,10,201710,Planner Corretora,1.71,28.19
+2017,10,201710,Rico Corretora,3.25,33.52
+2017,10,201710,Santander Corretora,-0.98,38.98
+2017,10,201710,XP Investimentos,1.73,24.58
+2017,11,201711,Ágora Investimentos,-4.6,26.0
+2017,11,201711,Ativa Investimentos,-0.98,23.32
+2017,11,201711,BB Investimentos,-0.33,18.52
+2017,11,201711,Genial Investimentos,-3.06,40.72
+2017,11,201711,Guide Investimentos,-2.13,18.68
+2017,11,201711,Planner Corretora,-4.37,22.59
+2017,11,201711,Rico Corretora,-5.77,25.82
+2017,11,201711,Santander Corretora,-4.83,32.27
+2017,11,201711,XP Investimentos,-5.24,18.05
+2017,12,201712,Ágora Investimentos,7.02,34.85
+2017,12,201712,Ativa Investimentos,6.01,30.73
+2017,12,201712,BB Investimentos,4.8,24.2
+2017,12,201712,Genial Investimentos,2.72,44.55
+2017,12,201712,Guide Investimentos,4.04,23.47
+2017,12,201712,Planner Corretora,6.91,31.06
+2017,12,201712,Rico Corretora,5.88,33.23
+2017,12,201712,Santander Corretora,4.83,38.66
+2017,12,201712,XP Investimentos,3.02,21.62
+2018,01,201801,Ágora Investimentos,14.29,14.29
+2018,01,201801,Ativa Investimentos,11.11,11.11
+2018,01,201801,BB Investimentos,8.98,8.98
+2018,01,201801,Coinvalores Corretora,12.56,12.56
+2018,01,201801,Genial Investimentos,8.06,8.06
+2018,01,201801,Guide Investimentos,11.42,11.42
+2018,01,201801,Magliano Corretora,2.61,2.61
+2018,01,201801,Necton,14.23,14.23
+2018,01,201801,Planner Corretora,11.24,11.24
+2018,01,201801,Santander Corretora,12.65,12.65
+2018,01,201801,XP Investimentos,7.27,7.27
+2018,02,201802,Ágora Investimentos,1.44,15.94
+2018,02,201802,Ativa Investimentos,2.5,13.89
+2018,02,201802,BB Investimentos,4.58,13.97
+2018,02,201802,Coinvalores Corretora,3.19,16.16
+2018,02,201802,Genial Investimentos,0.46,8.56
+2018,02,201802,Guide Investimentos,0.23,11.68
+2018,02,201802,Magliano Corretora,2.35,5.03
+2018,02,201802,Necton,1.46,15.9
+2018,02,201802,Planner Corretora,-0.29,10.92
+2018,02,201802,Santander Corretora,3.83,16.96
+2018,02,201802,XP Investimentos,3.67,11.21
+2018,03,201803,Ágora Investimentos,5.65,22.49
+2018,03,201803,Ativa Investimentos,0.23,14.15
+2018,03,201803,BB Investimentos,-1.9,11.8
+2018,03,201803,Coinvalores Corretora,-3.56,12.02
+2018,03,201803,Genial Investimentos,3.46,12.31
+2018,03,201803,Guide Investimentos,4.33,16.51
+2018,03,201803,Magliano Corretora,2.65,7.81
+2018,03,201803,Necton,-1.09,14.63
+2018,03,201803,Planner Corretora,12.47,24.75
+2018,03,201803,Santander Corretora,1.31,18.49
+2018,03,201803,XP Investimentos,1.31,12.66
+2018,04,201804,Ágora Investimentos,1.97,24.91
+2018,04,201804,Ativa Investimentos,-1.72,12.19
+2018,04,201804,BB Investimentos,1.38,13.34
+2018,04,201804,Coinvalores Corretora,3.29,15.71
+2018,04,201804,Genial Investimentos,6.61,19.74
+2018,04,201804,Guide Investimentos,5.66,23.11
+2018,04,201804,Magliano Corretora,2.11,10.09
+2018,04,201804,Mirae Corretora,3.94,3.94
+2018,04,201804,Necton,1.11,15.91
+2018,04,201804,Planner Corretora,-0.41,24.24
+2018,04,201804,Santander Corretora,5.47,24.97
+2018,04,201804,Terra Investimentos,1.19,1.19
+2018,04,201804,XP Investimentos,3.9,17.06
+2018,05,201805,Ágora Investimentos,-10.28,12.06
+2018,05,201805,Ativa Investimentos,-12.6,-1.94
+2018,05,201805,BB Investimentos,-11.88,-0.12
+2018,05,201805,Coinvalores Corretora,-9.83,4.34
+2018,05,201805,Genial Investimentos,-7.98,10.18
+2018,05,201805,Guide Investimentos,-8.4,12.77
+2018,05,201805,Magliano Corretora,-13.97,-5.29
+2018,05,201805,Mirae Corretora,-12.57,-9.13
+2018,05,201805,Necton,-10.59,3.63
+2018,05,201805,Planner Corretora,-10.76,10.87
+2018,05,201805,Santander Corretora,-7.62,15.45
+2018,05,201805,Terra Investimentos,-13.42,-12.39
+2018,05,201805,XP Investimentos,-14.58,-0.01
+2018,06,201806,Ágora Investimentos,-7.29,3.9
+2018,06,201806,Ativa Investimentos,-7.11,-8.92
+2018,06,201806,BB Investimentos,-0.77,-0.89
+2018,06,201806,Coinvalores Corretora,-6.93,-2.89
+2018,06,201806,Elite Investimentos,-1.54,-1.54
+2018,06,201806,Genial Investimentos,-2.99,6.89
+2018,06,201806,Guide Investimentos,-0.8,11.87
+2018,06,201806,Magliano Corretora,-6.38,-11.33
+2018,06,201806,Mirae Corretora,-2.88,-11.74
+2018,06,201806,Necton,-5.57,-2.14
+2018,06,201806,Planner Corretora,0.61,11.55
+2018,06,201806,Santander Corretora,-3.16,11.81
+2018,06,201806,Terra Investimentos,-6.11,-17.75
+2018,06,201806,XP Investimentos,-10.24,-10.25
+2018,07,201807,Ágora Investimentos,5.12,9.21
+2018,07,201807,Ativa Investimentos,10.88,0.99
+2018,07,201807,BB Investimentos,8.48,7.51
+2018,07,201807,Coinvalores Corretora,10.08,6.89
+2018,07,201807,Elite Investimentos,9.01,7.34
+2018,07,201807,Genial Investimentos,4.17,11.34
+2018,07,201807,Guide Investimentos,0.67,12.62
+2018,07,201807,Magliano Corretora,6.31,-5.73
+2018,07,201807,Mirae Corretora,7.43,-5.18
+2018,07,201807,Necton,14.63,12.17
+2018,07,201807,Nova Futura Investimentos,7.86,7.86
+2018,07,201807,Planner Corretora,4.94,17.06
+2018,07,201807,Santander Corretora,4.46,16.79
+2018,07,201807,Terra Investimentos,8.7,-10.59
+2018,07,201807,XP Investimentos,4.76,-5.97
+2018,08,201808,Ágora Investimentos,-4.73,4.05
+2018,08,201808,Ativa Investimentos,-0.84,0.15
+2018,08,201808,BB Investimentos,5.24,13.15
+2018,08,201808,Coinvalores Corretora,-4.21,2.39
+2018,08,201808,Elite Investimentos,1.65,9.11
+2018,08,201808,Genial Investimentos,-5.06,5.71
+2018,08,201808,Guide Investimentos,-4.83,7.18
+2018,08,201808,Magliano Corretora,-6.37,-11.73
+2018,08,201808,Mirae Corretora,-7.56,-12.35
+2018,08,201808,Modalmais,-3.09,-3.09
+2018,08,201808,Necton,-3.08,8.72
+2018,08,201808,Nova Futura Investimentos,-1.15,6.62
+2018,08,201808,Planner Corretora,-5.98,10.06
+2018,08,201808,Santander Corretora,1.56,18.62
+2018,08,201808,Terra Investimentos,-2.43,-12.76
+2018,08,201808,XP Investimentos,-5.8,-11.43
+2018,09,201809,Ágora Investimentos,1.08,5.17
+2018,09,201809,Ativa Investimentos,-0.04,0.11
+2018,09,201809,BB Investimentos,1.59,14.95
+2018,09,201809,Coinvalores Corretora,4.7,7.21
+2018,09,201809,Elite Investimentos,0.94,10.13
+2018,09,201809,Genial Investimentos,-3.91,1.58
+2018,09,201809,Guide Investimentos,2.64,10.01
+2018,09,201809,Magliano Corretora,2.83,-9.24
+2018,09,201809,Mirae Corretora,6.33,-6.81
+2018,09,201809,Modalmais,2.81,-0.37
+2018,09,201809,Necton,1.82,10.7
+2018,09,201809,Nova Futura Investimentos,5.38,12.35
+2018,09,201809,Planner Corretora,0.48,10.6
+2018,09,201809,Santander Corretora,3.87,23.21
+2018,09,201809,Terra Investimentos,2.18,-10.86
+2018,09,201809,XP Investimentos,6.2,-5.94
+2018,10,201810,Ágora Investimentos,3.0,8.32
+2018,10,201810,Ativa Investimentos,1.03,1.14
+2018,10,201810,BB Investimentos,5.82,21.64
+2018,10,201810,Coinvalores Corretora,12.56,20.67
+2018,10,201810,Elite Investimentos,11.09,22.34
+2018,10,201810,Genial Investimentos,10.82,12.58
+2018,10,201810,Guide Investimentos,21.25,33.38
+2018,10,201810,Magliano Corretora,11.92,1.58
+2018,10,201810,Mirae Corretora,12.15,4.51
+2018,10,201810,Modalmais,14.94,14.51
+2018,10,201810,Necton,11.93,23.9
+2018,10,201810,Nova Futura Investimentos,1.68,14.23
+2018,10,201810,Planner Corretora,5.06,16.19
+2018,10,201810,Santander Corretora,5.92,30.51
+2018,10,201810,Terra Investimentos,10.58,-1.43
+2018,10,201810,XP Investimentos,5.97,-0.33
+2018,12,201812,Ágora Investimentos,-3.19,4.36
+2018,12,201812,Ativa Investimentos,-2.74,-3.7
+2018,12,201812,BB Investimentos,4.81,33.15
+2018,12,201812,Coinvalores Corretora,-0.67,26.58
+2018,12,201812,Elite Investimentos,2.12,26.76
+2018,12,201812,Genial Investimentos,-3.81,11.21
+2018,12,201812,Guide Investimentos,-2.6,36.24
+2018,12,201812,Mirae Corretora,-0.34,3.72
+2018,12,201812,Modalmais,4.09,19.17
+2018,12,201812,Necton,-1.36,16.24
+2018,12,201812,Nova Futura Investimentos,-0.67,8.79
+2018,12,201812,Planner Corretora,1.77,21.89
+2018,12,201812,Santander Corretora,3.02,44.69
+2018,12,201812,Terra Investimentos,-8.19,-4.53
+2018,12,201812,XP Investimentos,1.72,3.04
+2019,01,201901,Ágora Investimentos,11.15,11.15
+2019,01,201901,Ativa Investimentos,5.99,5.99
+2019,01,201901,BB Investimentos,8.52,8.52
+2019,01,201901,Coinvalores Corretora,7.9,7.9
+2019,01,201901,Elite Investimentos,6.74,6.74
+2019,01,201901,Genial Investimentos,6.46,6.46
+2019,01,201901,Guide Investimentos,5.62,5.62
+2019,01,201901,Mirae Corretora,8.94,8.94
+2019,01,201901,Modalmais,12.59,12.59
+2019,01,201901,Necton,11.27,11.27
+2019,01,201901,Nova Futura Investimentos,20.14,20.14
+2019,01,201901,Planner Corretora,10.59,10.59
+2019,01,201901,Safra Corretora,9.79,9.79
+2019,01,201901,Santander Corretora,9.88,9.88
+2019,01,201901,Socopa Corretora,16.45,16.45
+2019,01,201901,Terra Investimentos,11.53,11.53
+2019,01,201901,XP Investimentos,7.2,7.2
+2019,02,201902,Ágora Investimentos,-1.19,9.82
+2019,02,201902,Ativa Investimentos,-3.23,2.56
+2019,02,201902,BB Investimentos,-2.75,5.53
+2019,02,201902,Coinvalores Corretora,-0.2,7.69
+2019,02,201902,Elite Investimentos,2.93,9.87
+2019,02,201902,Genial Investimentos,-6.8,-0.78
+2019,02,201902,Guide Investimentos,0.96,6.63
+2019,02,201902,Mirae Corretora,0.21,9.17
+2019,02,201902,Modalmais,1.27,14.03
+2019,02,201902,Necton,7.46,19.56
+2019,02,201902,Nova Futura Investimentos,5.05,26.2
+2019,02,201902,Planner Corretora,0.05,10.65
+2019,02,201902,Safra Corretora,-0.78,8.93
+2019,02,201902,Santander Corretora,0.57,10.5
+2019,02,201902,Socopa Corretora,-6.97,8.33
+2019,02,201902,Terra Investimentos,-6.79,3.96
+2019,02,201902,XP Investimentos,-3.07,3.9
+2019,03,201903,Ágora Investimentos,-1.6,8.07
+2019,03,201903,Ativa Investimentos,2.8,5.44
+2019,03,201903,BB Investimentos,2.38,8.05
+2019,03,201903,Coinvalores Corretora,5.68,13.81
+2019,03,201903,Elite Investimentos,1.18,11.16
+2019,03,201903,Genial Investimentos,1.09,0.31
+2019,03,201903,Guide Investimentos,-4.92,1.39
+2019,03,201903,Mirae Corretora,-0.73,8.37
+2019,03,201903,Modalmais,3.11,17.57
+2019,03,201903,Necton,-5.07,13.51
+2019,03,201903,Nova Futura Investimentos,2.91,29.87
+2019,03,201903,Planner Corretora,-2.42,7.97
+2019,03,201903,Safra Corretora,-1.16,7.66
+2019,03,201903,Santander Corretora,0.89,11.49
+2019,03,201903,Socopa Corretora,-1.51,6.69
+2019,03,201903,Terra Investimentos,2.83,6.9
+2019,03,201903,XP Investimentos,1.02,4.96
+2019,04,201904,Ágora Investimentos,0.2,8.29
+2019,04,201904,Ativa Investimentos,5.66,11.4
+2019,04,201904,BB Investimentos,-1.01,6.96
+2019,04,201904,Coinvalores Corretora,0.3,14.15
+2019,04,201904,Elite Investimentos,2.06,13.46
+2019,04,201904,Genial Investimentos,3.36,3.68
+2019,04,201904,Guide Investimentos,2.07,3.48
+2019,04,201904,Mirae Corretora,-4.24,3.78
+2019,04,201904,Modalmais,13.52,33.46
+2019,04,201904,Necton,2.61,16.47
+2019,04,201904,Nova Futura Investimentos,-6.4,21.56
+2019,04,201904,Planner Corretora,-2.39,5.39
+2019,04,201904,Safra Corretora,2.41,10.25
+2019,04,201904,Santander Corretora,1.52,13.18
+2019,04,201904,Socopa Corretora,8.91,16.2
+2019,04,201904,Terra Investimentos,3.28,10.41
+2019,04,201904,XP Investimentos,7.07,12.38
+2019,05,201905,Ágora Investimentos,6.23,15.04
+2019,05,201905,Ativa Investimentos,-0.02,11.38
+2019,05,201905,BB Investimentos,-2.37,4.42
+2019,05,201905,Coinvalores Corretora,-3.27,10.42
+2019,05,201905,Elite Investimentos,-2.0,11.18
+2019,05,201905,Genial Investimentos,6.31,10.22
+2019,05,201905,Guide Investimentos,-1.48,1.95
+2019,05,201905,Mirae Corretora,-1.98,1.73
+2019,05,201905,Modalmais,0.83,34.57
+2019,05,201905,Necton,-7.87,7.31
+2019,05,201905,Nova Futura Investimentos,2.61,24.74
+2019,05,201905,Planner Corretora,-2.15,3.12
+2019,05,201905,Safra Corretora,1.61,12.03
+2019,05,201905,Santander Corretora,1.65,15.05
+2019,05,201905,Socopa Corretora,4.39,21.3
+2019,05,201905,Terra Investimentos,-1.92,8.29
+2019,05,201905,XP Investimentos,1.72,14.32
+2019,06,201906,Ágora Investimentos,7.89,24.11
+2019,06,201906,Ativa Investimentos,5.56,17.57
+2019,06,201906,BB Investimentos,3.28,7.85
+2019,06,201906,Coinvalores Corretora,3.42,14.2
+2019,06,201906,Elite Investimentos,0.0,11.18
+2019,06,201906,Genial Investimentos,2.6,13.08
+2019,06,201906,Guide Investimentos,1.73,3.72
+2019,06,201906,Mirae Corretora,3.81,5.6
+2019,06,201906,Modalmais,7.73,44.97
+2019,06,201906,Necton,-0.04,7.26
+2019,06,201906,Nova Futura Investimentos,1.85,27.04
+2019,06,201906,Planner Corretora,3.48,6.71
+2019,06,201906,Safra Corretora,6.25,19.04
+2019,06,201906,Santander Corretora,3.8,19.42
+2019,06,201906,Socopa Corretora,5.73,28.26
+2019,06,201906,Terra Investimentos,7.24,16.13
+2019,06,201906,XP Investimentos,4.78,19.79
+2019,07,201907,Ágora Investimentos,-0.41,23.6
+2019,07,201907,Ativa Investimentos,-4.1,12.75
+2019,07,201907,BB Investimentos,3.98,12.14
+2019,07,201907,Coinvalores Corretora,3.3,17.97
+2019,07,201907,Elite Investimentos,3.25,14.8
+2019,07,201907,Genial Investimentos,5.19,18.94
+2019,07,201907,Guide Investimentos,4.81,8.7
+2019,07,201907,Mirae Corretora,-1.85,3.65
+2019,07,201907,Modalmais,-1.99,42.08
+2019,07,201907,Necton,2.49,9.93
+2019,07,201907,Nova Futura Investimentos,-2.69,23.63
+2019,07,201907,Planner Corretora,-2.07,4.5
+2019,07,201907,Safra Corretora,-2.59,15.96
+2019,07,201907,Santander Corretora,-2.94,15.91
+2019,07,201907,Socopa Corretora,2.26,31.15
+2019,07,201907,Terra Investimentos,8.72,26.26
+2019,07,201907,XP Investimentos,-1.52,17.96
+2019,08,201908,Ágora Investimentos,-3.12,19.75
+2019,08,201908,Ativa Investimentos,-3.08,9.28
+2019,08,201908,BB Investimentos,7.79,20.88
+2019,08,201908,Coinvalores Corretora,2.49,20.91
+2019,08,201908,Elite Investimentos,4.35,19.79
+2019,08,201908,Genial Investimentos,-6.41,11.32
+2019,08,201908,Guide Investimentos,2.54,11.46
+2019,08,201908,Mirae Corretora,-0.06,3.59
+2019,08,201908,Modalmais,2.9,46.2
+2019,08,201908,Necton,-9.32,-0.31
+2019,08,201908,Nova Futura Investimentos,10.04,36.04
+2019,08,201908,Planner Corretora,3.98,8.66
+2019,08,201908,Safra Corretora,-4.19,11.1
+2019,08,201908,Santander Corretora,-2.09,13.49
+2019,08,201908,Socopa Corretora,-5.62,23.79
+2019,08,201908,Terra Investimentos,1.54,28.2
+2019,08,201908,XP Investimentos,0.93,19.06
+2019,09,201909,Ágora Investimentos,0.96,20.9
+2019,09,201909,Ativa Investimentos,3.56,13.17
+2019,09,201909,BB Investimentos,2.09,23.41
+2019,09,201909,Coinvalores Corretora,0.83,21.91
+2019,09,201909,Elite Investimentos,3.11,23.51
+2019,09,201909,Genial Investimentos,3.14,14.82
+2019,09,201909,Guide Investimentos,-0.33,11.09
+2019,09,201909,Mirae Corretora,5.06,8.83
+2019,09,201909,Modalmais,7.87,57.7
+2019,09,201909,Necton,-0.45,-0.76
+2019,09,201909,Nova Futura Investimentos,4.28,41.86
+2019,09,201909,Planner Corretora,4.43,13.48
+2019,09,201909,Safra Corretora,5.09,16.75
+2019,09,201909,Santander Corretora,3.36,17.3
+2019,09,201909,Socopa Corretora,4.93,29.89
+2019,09,201909,Terra Investimentos,2.23,31.07
+2019,09,201909,XP Investimentos,0.23,19.33
+2019,10,201910,Ágora Investimentos,3.04,24.57
+2019,10,201910,Ativa Investimentos,5.09,18.93
+2019,10,201910,BB Investimentos,0.93,24.56
+2019,10,201910,Coinvalores Corretora,10.39,34.58
+2019,10,201910,Elite Investimentos,9.15,34.81
+2019,10,201910,Genial Investimentos,3.87,19.27
+2019,10,201910,Guide Investimentos,1.85,13.14
+2019,10,201910,Mirae Corretora,1.56,10.53
+2019,10,201910,Modalmais,9.17,72.17
+2019,10,201910,Necton,-2.75,-3.49
+2019,10,201910,Nova Futura Investimentos,5.36,49.45
+2019,10,201910,Planner Corretora,3.21,17.13
+2019,10,201910,Safra Corretora,4.39,21.89
+2019,10,201910,Santander Corretora,-0.32,16.93
+2019,10,201910,Socopa Corretora,-2.23,27.0
+2019,10,201910,Terra Investimentos,-0.87,29.93
+2019,10,201910,XP Investimentos,3.21,23.16
+2019,11,201911,Ágora Investimentos,-1.04,23.27
+2019,11,201911,Ativa Investimentos,-1.34,17.34
+2019,11,201911,BB Investimentos,1.39,26.29
+2019,11,201911,Elite Investimentos,-2.25,31.78
+2019,11,201911,Genial Investimentos,1.02,20.49
+2019,11,201911,Guide Investimentos,3.15,16.7
+2019,11,201911,Mirae Corretora,-1.09,9.32
+2019,11,201911,Modalmais,4.15,79.32
+2019,11,201911,Necton,-1.49,-4.93
+2019,11,201911,Nova Futura Investimentos,3.2,54.23
+2019,11,201911,Planner Corretora,-0.18,16.91
+2019,11,201911,Safra Corretora,-0.75,20.97
+2019,11,201911,Santander Corretora,4.53,22.23
+2019,11,201911,Socopa Corretora,-0.41,26.47
+2019,11,201911,Terra Investimentos,7.79,40.05
+2019,11,201911,XP Investimentos,4.98,29.3
+2019,12,201912,Ágora Investimentos,6.15,30.85
+2019,12,201912,Ativa Investimentos,4.17,22.23
+2019,12,201912,BB Investimentos,12.23,41.73
+2019,12,201912,Elite Investimentos,4.44,37.63
+2019,12,201912,Genial Investimentos,14.62,38.11
+2019,12,201912,Guide Investimentos,12.31,31.07
+2019,12,201912,Mirae Corretora,11.55,21.95
+2019,12,201912,Modalmais,7.93,93.53
+2019,12,201912,Necton,1.49,-3.52
+2019,12,201912,Nova Futura Investimentos,9.33,68.63
+2019,12,201912,Planner Corretora,13.27,32.43
+2019,12,201912,Safra Corretora,6.17,28.43
+2019,12,201912,Santander Corretora,12.78,37.85
+2019,12,201912,Socopa Corretora,10.16,39.32
+2019,12,201912,Terra Investimentos,5.43,47.65
+2019,12,201912,XP Investimentos,7.61,39.14
+2020,01,202001,Ágora Investimentos,0.59,0.59
+2020,01,202001,Ativa Investimentos,-3.48,-3.48
+2020,01,202001,BB Investimentos,2.22,2.22
+2020,01,202001,Elite Investimentos,3.02,3.02
+2020,01,202001,Genial Investimentos,6.94,6.94
+2020,01,202001,Guide Investimentos,9.06,9.06
+2020,01,202001,Mirae Corretora,0.69,0.69
+2020,01,202001,Modalmais,-4.58,-4.58
+2020,01,202001,Necton,0.24,0.24
+2020,01,202001,Nova Futura Investimentos,9.68,9.68
+2020,01,202001,Planner Corretora,-7.83,-7.83
+2020,01,202001,Safra Corretora,-0.6,-0.6
+2020,01,202001,Santander Corretora,-1.24,-1.24
+2020,01,202001,Socopa Corretora,-5.33,-5.33
+2020,01,202001,Terra Investimentos,1.21,1.21
+2020,01,202001,XP Investimentos,2.41,2.41
 2020,02,202002,Ágora Investimentos,-6.55,-5.99
 2020,02,202002,Ativa Investimentos,-5.19,-8.49
 2020,02,202002,BB Investimentos,-8.31,-6.27
@@ -125,1121 +1135,111 @@ ano,mes,ano_mes,corretora,desempenho_mes,desempenho_ano
 2020,02,202002,Socopa Corretora,-14.33,-18.9
 2020,02,202002,Terra Investimentos,-12.08,-11.02
 2020,02,202002,XP Investimentos,-6.63,-4.38
-2020,01,202001,Ágora Investimentos,0.59,0.59
-2020,01,202001,Ativa Investimentos,-3.48,-3.48
-2020,01,202001,BB Investimentos,2.22,2.22
-2020,01,202001,Elite Investimentos,3.02,3.02
-2020,01,202001,Genial Investimentos,6.94,6.94
-2020,01,202001,Guide Investimentos,9.06,9.06
-2020,01,202001,Mirae Corretora,0.69,0.69
-2020,01,202001,Modalmais,-4.58,-4.58
-2020,01,202001,Necton,0.24,0.24
-2020,01,202001,Nova Futura Investimentos,9.68,9.68
-2020,01,202001,Planner Corretora,-7.83,-7.83
-2020,01,202001,Safra Corretora,-0.6,-0.6
-2020,01,202001,Santander Corretora,-1.24,-1.24
-2020,01,202001,Socopa Corretora,-5.33,-5.33
-2020,01,202001,Terra Investimentos,1.21,1.21
-2020,01,202001,XP Investimentos,2.41,2.41
-2019,12,201912,Ágora Investimentos,6.15,30.85
-2019,12,201912,Ativa Investimentos,4.17,22.23
-2019,12,201912,BB Investimentos,12.23,41.73
-2019,12,201912,Elite Investimentos,4.44,37.63
-2019,12,201912,Genial Investimentos,14.62,38.11
-2019,12,201912,Guide Investimentos,12.31,31.07
-2019,12,201912,Mirae Corretora,11.55,21.95
-2019,12,201912,Modalmais,7.93,93.53
-2019,12,201912,Necton,1.49,-3.52
-2019,12,201912,Nova Futura Investimentos,9.33,68.63
-2019,12,201912,Planner Corretora,13.27,32.43
-2019,12,201912,Safra Corretora,6.17,28.43
-2019,12,201912,Santander Corretora,12.78,37.85
-2019,12,201912,Socopa Corretora,10.16,39.32
-2019,12,201912,Terra Investimentos,5.43,47.65
-2019,12,201912,XP Investimentos,7.61,39.14
-2019,11,201911,Ágora Investimentos,-1.04,23.27
-2019,11,201911,Ativa Investimentos,-1.34,17.34
-2019,11,201911,BB Investimentos,1.39,26.29
-2019,11,201911,Elite Investimentos,-2.25,31.78
-2019,11,201911,Genial Investimentos,1.02,20.49
-2019,11,201911,Guide Investimentos,3.15,16.7
-2019,11,201911,Mirae Corretora,-1.09,9.32
-2019,11,201911,Modalmais,4.15,79.32
-2019,11,201911,Necton,-1.49,-4.93
-2019,11,201911,Nova Futura Investimentos,3.2,54.23
-2019,11,201911,Planner Corretora,-0.18,16.91
-2019,11,201911,Safra Corretora,-0.75,20.97
-2019,11,201911,Santander Corretora,4.53,22.23
-2019,11,201911,Socopa Corretora,-0.41,26.47
-2019,11,201911,Terra Investimentos,7.79,40.05
-2019,11,201911,XP Investimentos,4.98,29.3
-2019,10,201910,Ágora Investimentos,3.04,24.57
-2019,10,201910,Ativa Investimentos,5.09,18.93
-2019,10,201910,BB Investimentos,0.93,24.56
-2019,10,201910,Coinvalores Corretora,10.39,34.58
-2019,10,201910,Elite Investimentos,9.15,34.81
-2019,10,201910,Genial Investimentos,3.87,19.27
-2019,10,201910,Guide Investimentos,1.85,13.14
-2019,10,201910,Mirae Corretora,1.56,10.53
-2019,10,201910,Modalmais,9.17,72.17
-2019,10,201910,Necton,-2.75,-3.49
-2019,10,201910,Nova Futura Investimentos,5.36,49.45
-2019,10,201910,Planner Corretora,3.21,17.13
-2019,10,201910,Safra Corretora,4.39,21.89
-2019,10,201910,Santander Corretora,-0.32,16.93
-2019,10,201910,Socopa Corretora,-2.23,27.0
-2019,10,201910,Terra Investimentos,-0.87,29.93
-2019,10,201910,XP Investimentos,3.21,23.16
-2019,09,201909,Ágora Investimentos,0.96,20.9
-2019,09,201909,Ativa Investimentos,3.56,13.17
-2019,09,201909,BB Investimentos,2.09,23.41
-2019,09,201909,Coinvalores Corretora,0.83,21.91
-2019,09,201909,Elite Investimentos,3.11,23.51
-2019,09,201909,Genial Investimentos,3.14,14.82
-2019,09,201909,Guide Investimentos,-0.33,11.09
-2019,09,201909,Mirae Corretora,5.06,8.83
-2019,09,201909,Modalmais,7.87,57.7
-2019,09,201909,Necton,-0.45,-0.76
-2019,09,201909,Nova Futura Investimentos,4.28,41.86
-2019,09,201909,Planner Corretora,4.43,13.48
-2019,09,201909,Safra Corretora,5.09,16.75
-2019,09,201909,Santander Corretora,3.36,17.3
-2019,09,201909,Socopa Corretora,4.93,29.89
-2019,09,201909,Terra Investimentos,2.23,31.07
-2019,09,201909,XP Investimentos,0.23,19.33
-2019,08,201908,Ágora Investimentos,-3.12,19.75
-2019,08,201908,Ativa Investimentos,-3.08,9.28
-2019,08,201908,BB Investimentos,7.79,20.88
-2019,08,201908,Coinvalores Corretora,2.49,20.91
-2019,08,201908,Elite Investimentos,4.35,19.79
-2019,08,201908,Genial Investimentos,-6.41,11.32
-2019,08,201908,Guide Investimentos,2.54,11.46
-2019,08,201908,Mirae Corretora,-0.06,3.59
-2019,08,201908,Modalmais,2.9,46.2
-2019,08,201908,Necton,-9.32,-0.31
-2019,08,201908,Nova Futura Investimentos,10.04,36.04
-2019,08,201908,Planner Corretora,3.98,8.66
-2019,08,201908,Safra Corretora,-4.19,11.1
-2019,08,201908,Santander Corretora,-2.09,13.49
-2019,08,201908,Socopa Corretora,-5.62,23.79
-2019,08,201908,Terra Investimentos,1.54,28.2
-2019,08,201908,XP Investimentos,0.93,19.06
-2019,07,201907,Ágora Investimentos,-0.41,23.6
-2019,07,201907,Ativa Investimentos,-4.1,12.75
-2019,07,201907,BB Investimentos,3.98,12.14
-2019,07,201907,Coinvalores Corretora,3.3,17.97
-2019,07,201907,Elite Investimentos,3.25,14.8
-2019,07,201907,Genial Investimentos,5.19,18.94
-2019,07,201907,Guide Investimentos,4.81,8.7
-2019,07,201907,Mirae Corretora,-1.85,3.65
-2019,07,201907,Modalmais,-1.99,42.08
-2019,07,201907,Necton,2.49,9.93
-2019,07,201907,Nova Futura Investimentos,-2.69,23.63
-2019,07,201907,Planner Corretora,-2.07,4.5
-2019,07,201907,Safra Corretora,-2.59,15.96
-2019,07,201907,Santander Corretora,-2.94,15.91
-2019,07,201907,Socopa Corretora,2.26,31.15
-2019,07,201907,Terra Investimentos,8.72,26.26
-2019,07,201907,XP Investimentos,-1.52,17.96
-2019,06,201906,Ágora Investimentos,7.89,24.11
-2019,06,201906,Ativa Investimentos,5.56,17.57
-2019,06,201906,BB Investimentos,3.28,7.85
-2019,06,201906,Coinvalores Corretora,3.42,14.2
-2019,06,201906,Elite Investimentos,0.0,11.18
-2019,06,201906,Genial Investimentos,2.6,13.08
-2019,06,201906,Guide Investimentos,1.73,3.72
-2019,06,201906,Mirae Corretora,3.81,5.6
-2019,06,201906,Modalmais,7.73,44.97
-2019,06,201906,Necton,-0.04,7.26
-2019,06,201906,Nova Futura Investimentos,1.85,27.04
-2019,06,201906,Planner Corretora,3.48,6.71
-2019,06,201906,Safra Corretora,6.25,19.04
-2019,06,201906,Santander Corretora,3.8,19.42
-2019,06,201906,Socopa Corretora,5.73,28.26
-2019,06,201906,Terra Investimentos,7.24,16.13
-2019,06,201906,XP Investimentos,4.78,19.79
-2019,05,201905,Ágora Investimentos,6.23,15.04
-2019,05,201905,Ativa Investimentos,-0.02,11.38
-2019,05,201905,BB Investimentos,-2.37,4.42
-2019,05,201905,Coinvalores Corretora,-3.27,10.42
-2019,05,201905,Elite Investimentos,-2.0,11.18
-2019,05,201905,Genial Investimentos,6.31,10.22
-2019,05,201905,Guide Investimentos,-1.48,1.95
-2019,05,201905,Mirae Corretora,-1.98,1.73
-2019,05,201905,Modalmais,0.83,34.57
-2019,05,201905,Necton,-7.87,7.31
-2019,05,201905,Nova Futura Investimentos,2.61,24.74
-2019,05,201905,Planner Corretora,-2.15,3.12
-2019,05,201905,Safra Corretora,1.61,12.03
-2019,05,201905,Santander Corretora,1.65,15.05
-2019,05,201905,Socopa Corretora,4.39,21.3
-2019,05,201905,Terra Investimentos,-1.92,8.29
-2019,05,201905,XP Investimentos,1.72,14.32
-2019,04,201904,Ágora Investimentos,0.2,8.29
-2019,04,201904,Ativa Investimentos,5.66,11.4
-2019,04,201904,BB Investimentos,-1.01,6.96
-2019,04,201904,Coinvalores Corretora,0.3,14.15
-2019,04,201904,Elite Investimentos,2.06,13.46
-2019,04,201904,Genial Investimentos,3.36,3.68
-2019,04,201904,Guide Investimentos,2.07,3.48
-2019,04,201904,Mirae Corretora,-4.24,3.78
-2019,04,201904,Modalmais,13.52,33.46
-2019,04,201904,Necton,2.61,16.47
-2019,04,201904,Nova Futura Investimentos,-6.4,21.56
-2019,04,201904,Planner Corretora,-2.39,5.39
-2019,04,201904,Safra Corretora,2.41,10.25
-2019,04,201904,Santander Corretora,1.52,13.18
-2019,04,201904,Socopa Corretora,8.91,16.2
-2019,04,201904,Terra Investimentos,3.28,10.41
-2019,04,201904,XP Investimentos,7.07,12.38
-2019,03,201903,Ágora Investimentos,-1.6,8.07
-2019,03,201903,Ativa Investimentos,2.8,5.44
-2019,03,201903,BB Investimentos,2.38,8.05
-2019,03,201903,Coinvalores Corretora,5.68,13.81
-2019,03,201903,Elite Investimentos,1.18,11.16
-2019,03,201903,Genial Investimentos,1.09,0.31
-2019,03,201903,Guide Investimentos,-4.92,1.39
-2019,03,201903,Mirae Corretora,-0.73,8.37
-2019,03,201903,Modalmais,3.11,17.57
-2019,03,201903,Necton,-5.07,13.51
-2019,03,201903,Nova Futura Investimentos,2.91,29.87
-2019,03,201903,Planner Corretora,-2.42,7.97
-2019,03,201903,Safra Corretora,-1.16,7.66
-2019,03,201903,Santander Corretora,0.89,11.49
-2019,03,201903,Socopa Corretora,-1.51,6.69
-2019,03,201903,Terra Investimentos,2.83,6.9
-2019,03,201903,XP Investimentos,1.02,4.96
-2019,02,201902,Ágora Investimentos,-1.19,9.82
-2019,02,201902,Ativa Investimentos,-3.23,2.56
-2019,02,201902,BB Investimentos,-2.75,5.53
-2019,02,201902,Coinvalores Corretora,-0.2,7.69
-2019,02,201902,Elite Investimentos,2.93,9.87
-2019,02,201902,Genial Investimentos,-6.8,-0.78
-2019,02,201902,Guide Investimentos,0.96,6.63
-2019,02,201902,Mirae Corretora,0.21,9.17
-2019,02,201902,Modalmais,1.27,14.03
-2019,02,201902,Necton,7.46,19.56
-2019,02,201902,Nova Futura Investimentos,5.05,26.2
-2019,02,201902,Planner Corretora,0.05,10.65
-2019,02,201902,Safra Corretora,-0.78,8.93
-2019,02,201902,Santander Corretora,0.57,10.5
-2019,02,201902,Socopa Corretora,-6.97,8.33
-2019,02,201902,Terra Investimentos,-6.79,3.96
-2019,02,201902,XP Investimentos,-3.07,3.9
-2019,01,201901,Ágora Investimentos,11.15,11.15
-2019,01,201901,Ativa Investimentos,5.99,5.99
-2019,01,201901,BB Investimentos,8.52,8.52
-2019,01,201901,Coinvalores Corretora,7.9,7.9
-2019,01,201901,Elite Investimentos,6.74,6.74
-2019,01,201901,Genial Investimentos,6.46,6.46
-2019,01,201901,Guide Investimentos,5.62,5.62
-2019,01,201901,Mirae Corretora,8.94,8.94
-2019,01,201901,Modalmais,12.59,12.59
-2019,01,201901,Necton,11.27,11.27
-2019,01,201901,Nova Futura Investimentos,20.14,20.14
-2019,01,201901,Planner Corretora,10.59,10.59
-2019,01,201901,Safra Corretora,9.79,9.79
-2019,01,201901,Santander Corretora,9.88,9.88
-2019,01,201901,Socopa Corretora,16.45,16.45
-2019,01,201901,Terra Investimentos,11.53,11.53
-2019,01,201901,XP Investimentos,7.2,7.2
-2018,12,201812,Ágora Investimentos,-3.19,4.36
-2018,12,201812,Ativa Investimentos,-2.74,-3.7
-2018,12,201812,BB Investimentos,4.81,33.15
-2018,12,201812,Coinvalores Corretora,-0.67,26.58
-2018,12,201812,Elite Investimentos,2.12,26.76
-2018,12,201812,Genial Investimentos,-3.81,11.21
-2018,12,201812,Guide Investimentos,-2.6,36.24
-2018,12,201812,Mirae Corretora,-0.34,3.72
-2018,12,201812,Modalmais,4.09,19.17
-2018,12,201812,Necton,-1.36,16.24
-2018,12,201812,Nova Futura Investimentos,-0.67,8.79
-2018,12,201812,Planner Corretora,1.77,21.89
-2018,12,201812,Santander Corretora,3.02,44.69
-2018,12,201812,Terra Investimentos,-8.19,-4.53
-2018,12,201812,XP Investimentos,1.72,3.04
-2018,10,201810,Ágora Investimentos,3.0,8.32
-2018,10,201810,Ativa Investimentos,1.03,1.14
-2018,10,201810,BB Investimentos,5.82,21.64
-2018,10,201810,Coinvalores Corretora,12.56,20.67
-2018,10,201810,Elite Investimentos,11.09,22.34
-2018,10,201810,Genial Investimentos,10.82,12.58
-2018,10,201810,Guide Investimentos,21.25,33.38
-2018,10,201810,Magliano Corretora,11.92,1.58
-2018,10,201810,Mirae Corretora,12.15,4.51
-2018,10,201810,Modalmais,14.94,14.51
-2018,10,201810,Necton,11.93,23.9
-2018,10,201810,Nova Futura Investimentos,1.68,14.23
-2018,10,201810,Planner Corretora,5.06,16.19
-2018,10,201810,Santander Corretora,5.92,30.51
-2018,10,201810,Terra Investimentos,10.58,-1.43
-2018,10,201810,XP Investimentos,5.97,-0.33
-2018,09,201809,Ágora Investimentos,1.08,5.17
-2018,09,201809,Ativa Investimentos,-0.04,0.11
-2018,09,201809,BB Investimentos,1.59,14.95
-2018,09,201809,Coinvalores Corretora,4.7,7.21
-2018,09,201809,Elite Investimentos,0.94,10.13
-2018,09,201809,Genial Investimentos,-3.91,1.58
-2018,09,201809,Guide Investimentos,2.64,10.01
-2018,09,201809,Magliano Corretora,2.83,-9.24
-2018,09,201809,Mirae Corretora,6.33,-6.81
-2018,09,201809,Modalmais,2.81,-0.37
-2018,09,201809,Necton,1.82,10.7
-2018,09,201809,Nova Futura Investimentos,5.38,12.35
-2018,09,201809,Planner Corretora,0.48,10.6
-2018,09,201809,Santander Corretora,3.87,23.21
-2018,09,201809,Terra Investimentos,2.18,-10.86
-2018,09,201809,XP Investimentos,6.2,-5.94
-2018,08,201808,Ágora Investimentos,-4.73,4.05
-2018,08,201808,Ativa Investimentos,-0.84,0.15
-2018,08,201808,BB Investimentos,5.24,13.15
-2018,08,201808,Coinvalores Corretora,-4.21,2.39
-2018,08,201808,Elite Investimentos,1.65,9.11
-2018,08,201808,Genial Investimentos,-5.06,5.71
-2018,08,201808,Guide Investimentos,-4.83,7.18
-2018,08,201808,Magliano Corretora,-6.37,-11.73
-2018,08,201808,Mirae Corretora,-7.56,-12.35
-2018,08,201808,Modalmais,-3.09,-3.09
-2018,08,201808,Necton,-3.08,8.72
-2018,08,201808,Nova Futura Investimentos,-1.15,6.62
-2018,08,201808,Planner Corretora,-5.98,10.06
-2018,08,201808,Santander Corretora,1.56,18.62
-2018,08,201808,Terra Investimentos,-2.43,-12.76
-2018,08,201808,XP Investimentos,-5.8,-11.43
-2018,07,201807,Ágora Investimentos,5.12,9.21
-2018,07,201807,Ativa Investimentos,10.88,0.99
-2018,07,201807,BB Investimentos,8.48,7.51
-2018,07,201807,Coinvalores Corretora,10.08,6.89
-2018,07,201807,Elite Investimentos,9.01,7.34
-2018,07,201807,Genial Investimentos,4.17,11.34
-2018,07,201807,Guide Investimentos,0.67,12.62
-2018,07,201807,Magliano Corretora,6.31,-5.73
-2018,07,201807,Mirae Corretora,7.43,-5.18
-2018,07,201807,Necton,14.63,12.17
-2018,07,201807,Nova Futura Investimentos,7.86,7.86
-2018,07,201807,Planner Corretora,4.94,17.06
-2018,07,201807,Santander Corretora,4.46,16.79
-2018,07,201807,Terra Investimentos,8.7,-10.59
-2018,07,201807,XP Investimentos,4.76,-5.97
-2018,06,201806,Ágora Investimentos,-7.29,3.9
-2018,06,201806,Ativa Investimentos,-7.11,-8.92
-2018,06,201806,BB Investimentos,-0.77,-0.89
-2018,06,201806,Coinvalores Corretora,-6.93,-2.89
-2018,06,201806,Elite Investimentos,-1.54,-1.54
-2018,06,201806,Genial Investimentos,-2.99,6.89
-2018,06,201806,Guide Investimentos,-0.8,11.87
-2018,06,201806,Magliano Corretora,-6.38,-11.33
-2018,06,201806,Mirae Corretora,-2.88,-11.74
-2018,06,201806,Necton,-5.57,-2.14
-2018,06,201806,Planner Corretora,0.61,11.55
-2018,06,201806,Santander Corretora,-3.16,11.81
-2018,06,201806,Terra Investimentos,-6.11,-17.75
-2018,06,201806,XP Investimentos,-10.24,-10.25
-2018,05,201805,Ágora Investimentos,-10.28,12.06
-2018,05,201805,Ativa Investimentos,-12.6,-1.94
-2018,05,201805,BB Investimentos,-11.88,-0.12
-2018,05,201805,Coinvalores Corretora,-9.83,4.34
-2018,05,201805,Genial Investimentos,-7.98,10.18
-2018,05,201805,Guide Investimentos,-8.4,12.77
-2018,05,201805,Magliano Corretora,-13.97,-5.29
-2018,05,201805,Mirae Corretora,-12.57,-9.13
-2018,05,201805,Necton,-10.59,3.63
-2018,05,201805,Planner Corretora,-10.76,10.87
-2018,05,201805,Santander Corretora,-7.62,15.45
-2018,05,201805,Terra Investimentos,-13.42,-12.39
-2018,05,201805,XP Investimentos,-14.58,-0.01
-2018,04,201804,Ágora Investimentos,1.97,24.91
-2018,04,201804,Ativa Investimentos,-1.72,12.19
-2018,04,201804,BB Investimentos,1.38,13.34
-2018,04,201804,Coinvalores Corretora,3.29,15.71
-2018,04,201804,Genial Investimentos,6.61,19.74
-2018,04,201804,Guide Investimentos,5.66,23.11
-2018,04,201804,Magliano Corretora,2.11,10.09
-2018,04,201804,Mirae Corretora,3.94,3.94
-2018,04,201804,Necton,1.11,15.91
-2018,04,201804,Planner Corretora,-0.41,24.24
-2018,04,201804,Santander Corretora,5.47,24.97
-2018,04,201804,Terra Investimentos,1.19,1.19
-2018,04,201804,XP Investimentos,3.9,17.06
-2018,03,201803,Ágora Investimentos,5.65,22.49
-2018,03,201803,Ativa Investimentos,0.23,14.15
-2018,03,201803,BB Investimentos,-1.9,11.8
-2018,03,201803,Coinvalores Corretora,-3.56,12.02
-2018,03,201803,Genial Investimentos,3.46,12.31
-2018,03,201803,Guide Investimentos,4.33,16.51
-2018,03,201803,Magliano Corretora,2.65,7.81
-2018,03,201803,Necton,-1.09,14.63
-2018,03,201803,Planner Corretora,12.47,24.75
-2018,03,201803,Santander Corretora,1.31,18.49
-2018,03,201803,XP Investimentos,1.31,12.66
-2018,02,201802,Ágora Investimentos,1.44,15.94
-2018,02,201802,Ativa Investimentos,2.5,13.89
-2018,02,201802,BB Investimentos,4.58,13.97
-2018,02,201802,Coinvalores Corretora,3.19,16.16
-2018,02,201802,Genial Investimentos,0.46,8.56
-2018,02,201802,Guide Investimentos,0.23,11.68
-2018,02,201802,Magliano Corretora,2.35,5.03
-2018,02,201802,Necton,1.46,15.9
-2018,02,201802,Planner Corretora,-0.29,10.92
-2018,02,201802,Santander Corretora,3.83,16.96
-2018,02,201802,XP Investimentos,3.67,11.21
-2018,01,201801,Ágora Investimentos,14.29,14.29
-2018,01,201801,Ativa Investimentos,11.11,11.11
-2018,01,201801,BB Investimentos,8.98,8.98
-2018,01,201801,Coinvalores Corretora,12.56,12.56
-2018,01,201801,Genial Investimentos,8.06,8.06
-2018,01,201801,Guide Investimentos,11.42,11.42
-2018,01,201801,Magliano Corretora,2.61,2.61
-2018,01,201801,Necton,14.23,14.23
-2018,01,201801,Planner Corretora,11.24,11.24
-2018,01,201801,Santander Corretora,12.65,12.65
-2018,01,201801,XP Investimentos,7.27,7.27
-2017,12,201712,Ágora Investimentos,7.02,34.85
-2017,12,201712,Ativa Investimentos,6.01,30.73
-2017,12,201712,BB Investimentos,4.8,24.2
-2017,12,201712,Genial Investimentos,2.72,44.55
-2017,12,201712,Guide Investimentos,4.04,23.47
-2017,12,201712,Planner Corretora,6.91,31.06
-2017,12,201712,Rico Corretora,5.88,33.23
-2017,12,201712,Santander Corretora,4.83,38.66
-2017,12,201712,XP Investimentos,3.02,21.62
-2017,11,201711,Ágora Investimentos,-4.6,26.0
-2017,11,201711,Ativa Investimentos,-0.98,23.32
-2017,11,201711,BB Investimentos,-0.33,18.52
-2017,11,201711,Genial Investimentos,-3.06,40.72
-2017,11,201711,Guide Investimentos,-2.13,18.68
-2017,11,201711,Planner Corretora,-4.37,22.59
-2017,11,201711,Rico Corretora,-5.77,25.82
-2017,11,201711,Santander Corretora,-4.83,32.27
-2017,11,201711,XP Investimentos,-5.24,18.05
-2017,10,201710,Ágora Investimentos,1.15,32.08
-2017,10,201710,Ativa Investimentos,-2.22,24.54
-2017,10,201710,BB Investimentos,-3.1,18.91
-2017,10,201710,Citi Corretora,2.64,21.76
-2017,10,201710,Genial Investimentos,1.59,45.17
-2017,10,201710,Guide Investimentos,2.87,21.26
-2017,10,201710,Planner Corretora,1.71,28.19
-2017,10,201710,Rico Corretora,3.25,33.52
-2017,10,201710,Santander Corretora,-0.98,38.98
-2017,10,201710,XP Investimentos,1.73,24.58
-2017,09,201709,Ágora Investimentos,9.89,30.57
-2017,09,201709,Ativa Investimentos,2.3,27.36
-2017,09,201709,BB Investimentos,9.2,22.71
-2017,09,201709,Citi Corretora,7.78,18.63
-2017,09,201709,Genial Investimentos,2.98,42.89
-2017,09,201709,Guide Investimentos,4.98,17.88
-2017,09,201709,Planner Corretora,5.04,26.04
-2017,09,201709,Rico Corretora,5.58,29.32
-2017,09,201709,Santander Corretora,7.47,40.35
-2017,09,201709,XP Investimentos,4.89,22.46
-2017,08,201708,Ágora Investimentos,11.58,18.82
-2017,08,201708,Ativa Investimentos,7.83,24.5
-2017,08,201708,BB Investimentos,11.01,12.38
-2017,08,201708,Citi Corretora,8.5,10.06
-2017,08,201708,Genial Investimentos,11.77,38.76
-2017,08,201708,Guide Investimentos,10.58,12.28
-2017,08,201708,Planner Corretora,3.31,20.0
-2017,08,201708,Rico Corretora,7.44,22.48
-2017,08,201708,Santander Corretora,10.77,30.59
-2017,08,201708,XP Investimentos,18.87,16.75
-2017,07,201707,Ágora Investimentos,13.3,6.48
-2017,07,201707,Ativa Investimentos,8.16,15.46
-2017,07,201707,BB Investimentos,2.69,1.23
-2017,07,201707,Citi Corretora,3.33,1.44
-2017,07,201707,Genial Investimentos,4.43,24.15
-2017,07,201707,Guide Investimentos,1.16,1.54
-2017,07,201707,Planner Corretora,4.92,16.15
-2017,07,201707,Rico Corretora,5.5,14.0
-2017,07,201707,Santander Corretora,6.89,17.9
-2017,07,201707,XP Investimentos,5.44,-1.78
-2017,06,201706,Ágora Investimentos,-2.68,-6.01
-2017,06,201706,Ativa Investimentos,0.27,6.75
-2017,06,201706,BB Investimentos,-1.94,-1.42
-2017,06,201706,Citi Corretora,0.18,-1.83
-2017,06,201706,Genial Investimentos,-0.15,18.88
-2017,06,201706,Guide Investimentos,-1.7,0.38
-2017,06,201706,Planner Corretora,0.56,10.7
-2017,06,201706,Rico Corretora,-1.13,8.06
-2017,06,201706,Santander Corretora,3.7,10.3
-2017,06,201706,XP Investimentos,-0.8,-6.85
-2017,05,201705,Ágora Investimentos,-4.24,-3.43
-2017,05,201705,Ativa Investimentos,-1.29,6.46
-2017,05,201705,BB Investimentos,-1.54,0.53
-2017,05,201705,Citi Corretora,-3.75,-2.01
-2017,05,201705,Genial Investimentos,2.57,19.06
-2017,05,201705,Guide Investimentos,-1.71,2.11
-2017,05,201705,Planner Corretora,-2.57,10.09
-2017,05,201705,Rico Corretora,-3.17,9.3
-2017,05,201705,Santander Corretora,-5.83,6.36
-2017,05,201705,XP Investimentos,-8.01,-6.1
-2017,04,201704,Ágora Investimentos,-5.68,0.85
-2017,04,201704,Ativa Investimentos,1.93,7.85
-2017,04,201704,BB Investimentos,3.54,2.1
-2017,04,201704,Citi Corretora,-1.06,1.81
-2017,04,201704,Genial Investimentos,10.65,16.08
-2017,04,201704,Guide Investimentos,-1.64,3.89
-2017,04,201704,Planner Corretora,1.69,13.0
-2017,04,201704,Rico Corretora,3.03,12.88
-2017,04,201704,Santander Corretora,0.1,12.94
-2017,04,201704,XP Investimentos,-1.98,2.08
-2017,03,201703,Ágora Investimentos,-3.55,6.92
-2017,03,201703,Ativa Investimentos,-5.8,5.81
-2017,03,201703,BB Investimentos,-5.15,-1.39
-2017,03,201703,Citi Corretora,-4.19,2.9
-2017,03,201703,Genial Investimentos,-3.99,4.91
-2017,03,201703,Guide Investimentos,-0.95,5.62
-2017,03,201703,Planner Corretora,1.5,11.12
-2017,03,201703,Rico Corretora,-1.13,9.56
-2017,03,201703,Santander Corretora,-0.19,12.83
-2017,03,201703,XP Investimentos,-3.19,4.14
-2017,02,201702,Ágora Investimentos,5.89,10.86
-2017,02,201702,Ativa Investimentos,5.79,12.33
-2017,02,201702,BB Investimentos,2.79,3.96
-2017,02,201702,Citi Corretora,2.27,7.4
-2017,02,201702,Genial Investimentos,1.44,9.27
-2017,02,201702,Guide Investimentos,7.03,6.64
-2017,02,201702,Planner Corretora,2.98,9.48
-2017,02,201702,Rico Corretora,3.73,10.81
-2017,02,201702,Santander Corretora,4.19,13.04
-2017,02,201702,XP Investimentos,2.08,7.57
-2017,01,201701,Ágora Investimentos,4.7,4.7
-2017,01,201701,Ativa Investimentos,6.18,6.18
-2017,01,201701,BB Investimentos,1.15,1.15
-2017,01,201701,Citi Corretora,5.02,5.02
-2017,01,201701,Genial Investimentos,7.72,7.72
-2017,01,201701,Guide Investimentos,-0.37,-0.37
-2017,01,201701,Planner Corretora,6.31,6.31
-2017,01,201701,Rico Corretora,6.83,6.83
-2017,01,201701,Santander Corretora,8.5,8.5
-2017,01,201701,XP Investimentos,5.38,5.38
-2016,12,201612,Ágora Investimentos,-1.04,48.39
-2016,12,201612,Ativa Investimentos,-5.87,19.86
-2016,12,201612,BB Investimentos,-1.06,46.4
-2016,12,201612,Citi Corretora,-4.73,24.82
-2016,12,201612,Genial Investimentos,-1.51,-9.82
-2016,12,201612,Guide Investimentos,-1.12,30.74
-2016,12,201612,Planner Corretora,-1.8,-2.55
-2016,12,201612,Rico Corretora,-1.82,20.93
-2016,12,201612,Santander Corretora,-0.15,43.36
-2016,12,201612,XP Investimentos,-7.13,37.23
-2016,11,201611,Ágora Investimentos,-10.11,49.94
-2016,11,201611,Ativa Investimentos,-2.19,27.34
-2016,11,201611,BB Investimentos,3.85,47.97
-2016,11,201611,Citi Corretora,-5.11,31.02
-2016,11,201611,Genial Investimentos,-10.34,-8.44
-2016,11,201611,Guide Investimentos,-4.27,32.22
-2016,11,201611,Planner Corretora,-8.85,-0.76
-2016,11,201611,Rico Corretora,-10.66,23.17
-2016,11,201611,Santander Corretora,-10.62,43.57
-2016,11,201611,XP Investimentos,-2.62,47.76
-2016,10,201610,Ágora Investimentos,17.36,66.81
-2016,10,201610,Ativa Investimentos,18.76,30.18
-2016,10,201610,BB Investimentos,21.91,42.49
-2016,10,201610,Citi Corretora,10.04,38.08
-2016,10,201610,Genial Investimentos,7.03,2.12
-2016,10,201610,Guide Investimentos,7.38,38.12
-2016,10,201610,Planner Corretora,0.74,8.88
-2016,10,201610,Rico Corretora,11.4,37.87
-2016,10,201610,Santander Corretora,18.11,60.63
-2016,10,201610,XP Investimentos,17.18,51.73
-2016,09,201609,Ágora Investimentos,2.68,42.13
-2016,09,201609,Ativa Investimentos,2.62,9.62
-2016,09,201609,BB Investimentos,3.43,16.89
-2016,09,201609,Citi Corretora,-1.89,25.48
-2016,09,201609,Genial Investimentos,1.91,-4.59
-2016,09,201609,Guide Investimentos,0.44,28.62
-2016,09,201609,Planner Corretora,-1.15,8.07
-2016,09,201609,Rico Corretora,1.67,23.76
-2016,09,201609,Santander Corretora,0.18,36.0
-2016,09,201609,XP Investimentos,0.95,29.49
-2016,08,201608,Ágora Investimentos,-3.89,38.42
-2016,08,201608,Ativa Investimentos,-1.29,6.83
-2016,08,201608,BB Investimentos,-4.23,13.01
-2016,08,201608,Citi Corretora,5.7,27.9
-2016,08,201608,Genial Investimentos,-2.39,-6.38
-2016,08,201608,Guide Investimentos,3.4,28.06
-2016,08,201608,Planner Corretora,2.82,9.33
-2016,08,201608,Rico Corretora,-1.62,21.73
-2016,08,201608,Santander Corretora,2.64,35.76
-2016,08,201608,XP Investimentos,7.26,28.27
-2016,07,201607,Ágora Investimentos,12.1,44.02
-2016,07,201607,Ativa Investimentos,7.89,8.22
-2016,07,201607,BB Investimentos,10.02,18.0
-2016,07,201607,Citi Corretora,11.83,21.0
-2016,07,201607,Genial Investimentos,4.73,-4.09
-2016,07,201607,Guide Investimentos,9.83,23.85
-2016,07,201607,Planner Corretora,6.91,6.33
-2016,07,201607,Rico Corretora,9.66,23.74
-2016,07,201607,Santander Corretora,15.76,32.27
-2016,07,201607,XP Investimentos,8.43,19.59
-2016,06,201606,Ágora Investimentos,10.72,28.47
-2016,06,201606,Ativa Investimentos,6.32,0.31
-2016,06,201606,BB Investimentos,-7.52,7.25
-2016,06,201606,Citi Corretora,3.0,8.2
-2016,06,201606,Genial Investimentos,-0.18,-8.42
-2016,06,201606,Guide Investimentos,-4.08,12.76
-2016,06,201606,Planner Corretora,1.08,-0.54
-2016,06,201606,Rico Corretora,3.73,12.83
-2016,06,201606,Santander Corretora,14.3,14.26
-2016,06,201606,XP Investimentos,8.18,10.29
-2016,05,201605,Ágora Investimentos,-5.37,16.03
-2016,05,201605,Ativa Investimentos,-6.17,-5.65
-2016,05,201605,BB Investimentos,-13.38,15.98
-2016,05,201605,Citi Corretora,-1.64,5.04
-2016,05,201605,Genial Investimentos,-17.34,-8.25
-2016,05,201605,Guide Investimentos,2.48,17.57
-2016,05,201605,Planner Corretora,-8.95,-1.6
-2016,05,201605,Rico Corretora,-4.35,8.78
-2016,05,201605,Santander Corretora,-6.23,-0.03
-2016,05,201605,XP Investimentos,-4.46,1.95
-2016,04,201604,Ágora Investimentos,5.39,22.61
-2016,04,201604,Ativa Investimentos,4.76,0.56
-2016,04,201604,BB Investimentos,16.09,33.89
-2016,04,201604,Citi Corretora,4.7,6.79
-2016,04,201604,Genial Investimentos,4.91,11.0
-2016,04,201604,Guide Investimentos,7.64,14.72
-2016,04,201604,Planner Corretora,-0.94,8.07
-2016,04,201604,Rico Corretora,6.69,13.73
-2016,04,201604,Santander Corretora,8.19,6.61
-2016,04,201604,XP Investimentos,4.53,6.7
-2016,03,201603,Ágora Investimentos,10.5,16.34
-2016,03,201603,Ativa Investimentos,-3.57,-4.01
-2016,03,201603,BB Investimentos,13.99,15.33
-2016,03,201603,Citi Corretora,8.58,2.0
-2016,03,201603,Genial Investimentos,9.91,5.81
-2016,03,201603,Guide Investimentos,6.06,6.58
-2016,03,201603,Planner Corretora,8.45,9.1
-2016,03,201603,Rico Corretora,5.76,6.6
-2016,03,201603,Santander Corretora,1.41,-1.46
-2016,03,201603,XP Investimentos,8.96,2.08
-2016,02,201602,Ágora Investimentos,8.42,5.29
-2016,02,201602,Ativa Investimentos,2.83,-0.46
-2016,02,201602,BB Investimentos,6.68,1.18
-2016,02,201602,Citi Corretora,-1.11,-6.07
-2016,02,201602,Genial Investimentos,0.01,-3.74
-2016,02,201602,Guide Investimentos,1.76,0.49
-2016,02,201602,Planner Corretora,1.94,0.61
-2016,02,201602,Rico Corretora,4.22,0.79
-2016,02,201602,Santander Corretora,1.5,-2.83
-2016,02,201602,XP Investimentos,0.77,-6.32
-2016,01,201601,Ágora Investimentos,-2.89,-2.89
-2016,01,201601,Ativa Investimentos,-3.2,-3.2
-2016,01,201601,BB Investimentos,-5.16,-5.16
-2016,01,201601,Citi Corretora,-5.01,-5.01
-2016,01,201601,Genial Investimentos,-3.75,-3.75
-2016,01,201601,Guide Investimentos,-1.25,-1.25
-2016,01,201601,Planner Corretora,-1.3,-1.3
-2016,01,201601,Rico Corretora,-3.29,-3.29
-2016,01,201601,Santander Corretora,-4.27,-4.27
-2016,01,201601,XP Investimentos,-7.04,-7.04
-2015,12,201512,Ágora Investimentos,-7.35,-18.44
-2015,12,201512,Ativa Investimentos,-3.76,5.13
-2015,12,201512,BB Investimentos,-8.94,-10.78
-2015,12,201512,Citi Corretora,-2.71,7.39
-2015,12,201512,Genial Investimentos,-2.07,-3.85
-2015,12,201512,Guide Investimentos,2.09,8.76
-2015,12,201512,Planner Corretora,-2.76,-11.51
-2015,12,201512,Rico Corretora,-2.66,6.32
-2015,12,201512,Santander Corretora,-3.01,-5.12
-2015,12,201512,XP Investimentos,-2.77,-8.74
-2015,11,201511,Ágora Investimentos,3.17,-11.96
-2015,11,201511,Ativa Investimentos,4.42,9.24
-2015,11,201511,BB Investimentos,6.1,-2.02
-2015,11,201511,Citi Corretora,1.89,10.38
-2015,11,201511,Genial Investimentos,1.89,-1.81
-2015,11,201511,Guide Investimentos,5.54,6.53
-2015,11,201511,Planner Corretora,-4.01,-9.0
-2015,11,201511,Rico Corretora,-1.2,9.23
-2015,11,201511,Santander Corretora,1.62,-2.18
-2015,11,201511,XP Investimentos,1.96,-6.14
-2015,10,201510,Ágora Investimentos,8.22,-14.67
-2015,10,201510,Ativa Investimentos,-3.75,4.62
-2015,10,201510,BB Investimentos,-2.37,-7.65
-2015,10,201510,Citi Corretora,-0.35,8.34
-2015,10,201510,Genial Investimentos,0.81,-3.63
-2015,10,201510,Guide Investimentos,-3.41,0.93
-2015,10,201510,Planner Corretora,1.43,-5.2
-2015,10,201510,Rico Corretora,6.44,10.56
-2015,10,201510,Santander Corretora,-1.68,-3.74
-2015,10,201510,XP Investimentos,4.13,-7.94
-2015,09,201509,Ágora Investimentos,-4.34,-21.15
-2015,09,201509,Ativa Investimentos,1.08,8.69
-2015,09,201509,BB Investimentos,2.91,-5.4
-2015,09,201509,Citi Corretora,1.36,8.72
-2015,09,201509,Genial Investimentos,-3.64,-4.4
-2015,09,201509,Guide Investimentos,0.39,4.5
-2015,09,201509,Planner Corretora,-1.47,-6.53
-2015,09,201509,Rico Corretora,1.06,3.87
-2015,09,201509,Santander Corretora,-0.03,-2.09
-2015,09,201509,XP Investimentos,-3.76,-11.6
-2015,08,201508,Ágora Investimentos,-8.86,-17.57
-2015,08,201508,Ativa Investimentos,-3.79,7.52
-2015,08,201508,BB Investimentos,-12.5,-8.08
-2015,08,201508,Citi Corretora,-4.39,7.26
-2015,08,201508,Genial Investimentos,-7.54,-0.79
-2015,08,201508,Guide Investimentos,-8.2,4.1
-2015,08,201508,Planner Corretora,-6.44,-5.14
-2015,08,201508,Rico Corretora,-6.62,2.78
-2015,08,201508,Santander Corretora,-6.43,-2.07
-2015,08,201508,XP Investimentos,-7.14,-8.15
-2015,07,201507,Ágora Investimentos,-0.54,-9.56
-2015,07,201507,Ativa Investimentos,-0.76,11.76
-2015,07,201507,BB Investimentos,-4.46,5.05
-2015,07,201507,Citi Corretora,-2.05,12.18
-2015,07,201507,Genial Investimentos,1.91,7.31
-2015,07,201507,Guide Investimentos,3.77,13.4
-2015,07,201507,Planner Corretora,-2.6,1.4
-2015,07,201507,Rico Corretora,1.98,10.07
-2015,07,201507,Santander Corretora,0.1,4.67
-2015,07,201507,XP Investimentos,-5.33,-1.08
-2015,06,201506,Ágora Investimentos,0.87,-9.07
-2015,06,201506,Ativa Investimentos,-0.13,12.62
-2015,06,201506,BB Investimentos,4.1,9.96
-2015,06,201506,Citi Corretora,2.52,14.53
-2015,06,201506,Genial Investimentos,2.99,5.3
-2015,06,201506,Guide Investimentos,-1.03,9.27
-2015,06,201506,Planner Corretora,1.41,4.1
-2015,06,201506,Rico Corretora,-1.14,7.94
-2015,06,201506,Santander Corretora,4.97,4.56
-2015,06,201506,Souza Barros CCT,0.32,21.85
-2015,06,201506,XP Investimentos,2.88,4.49
-2015,05,201505,Ágora Investimentos,-5.6,-9.85
-2015,05,201505,Ativa Investimentos,-0.97,12.76
-2015,05,201505,BB Investimentos,-2.94,5.62
-2015,05,201505,Citi Corretora,-1.34,11.72
-2015,05,201505,Genial Investimentos,-5.36,2.24
-2015,05,201505,Guide Investimentos,-4.43,10.41
-2015,05,201505,Planner Corretora,-3.59,2.65
-2015,05,201505,Rico Corretora,-3.97,9.19
-2015,05,201505,Santander Corretora,-1.9,-0.39
-2015,05,201505,Souza Barros CCT,-1.65,21.45
-2015,05,201505,XP Investimentos,-5.78,1.56
-2015,04,201504,Ágora Investimentos,5.62,-4.51
-2015,04,201504,Ativa Investimentos,8.13,13.86
-2015,04,201504,BB Investimentos,5.56,8.82
-2015,04,201504,Citi Corretora,5.16,13.23
-2015,04,201504,Genial Investimentos,6.76,8.03
-2015,04,201504,Guide Investimentos,6.39,15.53
-2015,04,201504,Planner Corretora,1.68,6.47
-2015,04,201504,Rico Corretora,8.94,13.7
-2015,04,201504,Santander Corretora,9.43,1.55
-2015,04,201504,Souza Barros CCT,10.62,23.49
-2015,04,201504,XP Investimentos,6.11,7.79
-2015,03,201503,Ágora Investimentos,-1.52,-9.6
-2015,03,201503,Ativa Investimentos,3.47,5.3
-2015,03,201503,BB Investimentos,4.98,3.09
-2015,03,201503,Citi Corretora,3.49,7.67
-2015,03,201503,Genial Investimentos,-3.4,1.19
-2015,03,201503,Guide Investimentos,2.54,8.58
-2015,03,201503,Planner Corretora,0.63,4.72
-2015,03,201503,Rico Corretora,2.64,4.36
-2015,03,201503,Santander Corretora,-0.42,-7.2
-2015,03,201503,Souza Barros CCT,5.12,11.63
-2015,03,201503,XP Investimentos,4.57,1.59
-2015,02,201502,Ágora Investimentos,-2.49,-8.2
-2015,02,201502,Ativa Investimentos,8.72,1.77
-2015,02,201502,BB Investimentos,8.91,-1.8
-2015,02,201502,Citi Corretora,9.34,4.04
-2015,02,201502,Genial Investimentos,17.32,4.76
-2015,02,201502,Guide Investimentos,10.33,5.89
-2015,02,201502,Planner Corretora,7.51,4.07
-2015,02,201502,Rico Corretora,8.28,1.67
-2015,02,201502,Santander Corretora,6.72,-6.81
-2015,02,201502,Souza Barros CCT,11.08,6.2
-2015,02,201502,XP Investimentos,4.38,-2.86
-2015,01,201501,Ágora Investimentos,-5.85,-5.85
-2015,01,201501,Ativa Investimentos,-6.39,-6.39
-2015,01,201501,BB Investimentos,-9.84,-9.84
-2015,01,201501,Citi Corretora,-4.85,-4.85
-2015,01,201501,Genial Investimentos,-10.71,-10.71
-2015,01,201501,Guide Investimentos,-4.02,-4.02
-2015,01,201501,Planner Corretora,-3.2,-3.2
-2015,01,201501,Rico Corretora,-6.1,-6.1
-2015,01,201501,Santander Corretora,-12.68,-12.68
-2015,01,201501,Souza Barros CCT,-4.4,-4.4
-2015,01,201501,XP Investimentos,-6.94,-6.94
-2014,12,201412,Ágora Investimentos,-4.57,9.93
-2014,12,201412,Ativa Investimentos,-10.88,-8.61
-2014,12,201412,BB Investimentos,-2.75,-16.69
-2014,12,201412,Citi Corretora,-6.47,-7.12
-2014,12,201412,Genial Investimentos,-5.94,26.42
-2014,12,201412,Guide Investimentos,-10.69,-22.18
-2014,12,201412,Planner Corretora,-5.75,-9.67
-2014,12,201412,Rico Corretora,-3.86,-10.85
-2014,12,201412,Santander Corretora,-4.47,5.2
-2014,12,201412,Souza Barros CCT,-5.3,9.78
-2014,12,201412,Votorantim Corretora,-11.41,-11.3
-2014,12,201412,XP Investimentos,-8.8,-1.21
-2014,11,201411,Ágora Investimentos,3.04,15.2
-2014,11,201411,Ativa Investimentos,-1.77,2.54
-2014,11,201411,BB Investimentos,-1.41,-14.33
-2014,11,201411,Citi Corretora,4.28,-0.69
-2014,11,201411,Genial Investimentos,3.33,34.4
-2014,11,201411,Guide Investimentos,-4.41,-12.87
-2014,11,201411,Planner Corretora,-2.1,-4.16
-2014,11,201411,Rico Corretora,3.56,-7.27
-2014,11,201411,Santander Corretora,4.3,10.12
-2014,11,201411,Souza Barros CCT,0.8,15.93
-2014,11,201411,Votorantim Corretora,0.39,0.12
-2014,11,201411,XP Investimentos,2.07,8.32
-2014,10,201410,Ágora Investimentos,1.28,11.8
-2014,10,201410,Ativa Investimentos,4.3,4.39
-2014,10,201410,BB Investimentos,-1.77,-13.11
-2014,10,201410,Citi Corretora,3.97,-4.77
-2014,10,201410,Genial Investimentos,5.18,30.07
-2014,10,201410,Guide Investimentos,2.0,-8.85
-2014,10,201410,Planner Corretora,-0.18,-2.1
-2014,10,201410,Rico Corretora,0.07,-10.46
-2014,10,201410,Santander Corretora,3.45,5.58
-2014,10,201410,Souza Barros CCT,4.32,15.01
-2014,10,201410,Votorantim Corretora,5.82,-0.27
-2014,10,201410,XP Investimentos,5.57,6.12
-2014,09,201409,Ágora Investimentos,-5.76,10.39
-2014,09,201409,Ativa Investimentos,-9.05,0.09
-2014,09,201409,BB Investimentos,-12.81,-11.54
-2014,09,201409,Citi Corretora,-9.58,-8.4
-2014,09,201409,Genial Investimentos,-9.51,23.66
-2014,09,201409,Guide Investimentos,-3.25,-10.64
-2014,09,201409,Planner Corretora,-2.23,-1.93
-2014,09,201409,Rico Corretora,-12.9,-10.52
-2014,09,201409,Santander Corretora,-16.44,2.06
-2014,09,201409,Souza Barros CCT,-10.91,10.24
-2014,09,201409,Votorantim Corretora,-14.92,-5.75
-2014,09,201409,XP Investimentos,-12.62,0.52
-2014,08,201408,Ágora Investimentos,8.34,17.13
-2014,08,201408,Ativa Investimentos,10.68,10.05
-2014,08,201408,BB Investimentos,8.64,1.45
-2014,08,201408,Citi Corretora,7.7,1.3
-2014,08,201408,Genial Investimentos,7.13,36.66
-2014,08,201408,Guide Investimentos,1.82,-7.63
-2014,08,201408,Planner Corretora,5.84,0.31
-2014,08,201408,Rico Corretora,4.97,2.73
-2014,08,201408,Santander Corretora,11.21,22.14
-2014,08,201408,Souza Barros CCT,12.14,23.75
-2014,08,201408,Votorantim Corretora,13.13,10.78
-2014,08,201408,XP Investimentos,9.82,15.04
-2014,07,201407,Ágora Investimentos,-1.99,8.12
-2014,07,201407,Ativa Investimentos,-1.5,-0.57
-2014,07,201407,BB Investimentos,-7.13,-6.62
-2014,07,201407,Citi Corretora,0.3,-5.94
-2014,07,201407,Genial Investimentos,1.09,27.57
-2014,07,201407,Guide Investimentos,3.1,-9.28
-2014,07,201407,Planner Corretora,0.98,-5.23
-2014,07,201407,Rico Corretora,1.92,-2.14
-2014,07,201407,Santander Corretora,-1.2,9.83
-2014,07,201407,Souza Barros CCT,1.25,10.35
-2014,07,201407,Votorantim Corretora,1.5,-2.08
-2014,07,201407,XP Investimentos,2.35,4.76
-2014,06,201406,Ágora Investimentos,7.33,10.31
-2014,06,201406,Ativa Investimentos,7.17,0.94
-2014,06,201406,BB Investimentos,7.94,0.55
-2014,06,201406,Citi Corretora,1.81,-6.22
-2014,06,201406,Genial Investimentos,8.42,26.19
-2014,06,201406,Guide Investimentos,0.38,-12.01
-2014,06,201406,Planner Corretora,2.0,-6.15
-2014,06,201406,Rico Corretora,3.65,-3.98
-2014,06,201406,Santander Corretora,6.44,11.17
-2014,06,201406,Souza Barros CCT,7.06,8.99
-2014,06,201406,Votorantim Corretora,3.62,-3.53
-2014,06,201406,XP Investimentos,4.43,2.35
-2014,05,201405,Ágora Investimentos,2.87,2.78
-2014,05,201405,Ativa Investimentos,1.0,-5.81
-2014,05,201405,BB Investimentos,5.16,-6.84
-2014,05,201405,Citi Corretora,0.09,-7.89
-2014,05,201405,Genial Investimentos,4.52,16.39
-2014,05,201405,Guide Investimentos,1.51,-12.34
-2014,05,201405,Planner Corretora,-0.16,-7.99
-2014,05,201405,Rico Corretora,-0.2,-7.36
-2014,05,201405,Santander Corretora,8.71,4.44
-2014,05,201405,Souza Barros CCT,-1.16,1.8
-2014,05,201405,Votorantim Corretora,-1.16,-6.9
-2014,05,201405,XP Investimentos,-1.06,-1.99
-2014,04,201404,Ágora Investimentos,2.44,-0.09
-2014,04,201404,Ativa Investimentos,-2.49,-6.74
-2014,04,201404,BB Investimentos,1.39,-11.41
-2014,04,201404,Citi Corretora,0.78,-7.97
-2014,04,201404,Genial Investimentos,3.92,11.36
-2014,04,201404,Guide Investimentos,-3.92,-13.65
-2014,04,201404,Planner Corretora,0.78,-7.84
-2014,04,201404,Rico Corretora,1.66,-7.18
-2014,04,201404,Santander Corretora,1.38,-3.93
-2014,04,201404,Souza Barros CCT,6.82,2.99
-2014,04,201404,Votorantim Corretora,4.77,-5.8
-2014,04,201404,XP Investimentos,0.37,-0.94
-2014,03,201403,Ágora Investimentos,4.03,-2.47
-2014,03,201403,Ativa Investimentos,3.51,-4.36
-2014,03,201403,BB Investimentos,1.19,-12.63
-2014,03,201403,Citi Corretora,5.88,-8.69
-2014,03,201403,Genial Investimentos,10.42,7.16
-2014,03,201403,Guide Investimentos,1.21,-10.13
-2014,03,201403,Planner Corretora,3.73,-8.55
-2014,03,201403,Rico Corretora,1.5,-8.69
-2014,03,201403,Santander Corretora,5.61,-5.24
-2014,03,201403,Souza Barros CCT,7.86,-3.58
-2014,03,201403,Votorantim Corretora,4.48,-10.09
-2014,03,201403,XP Investimentos,5.91,-1.31
-2014,02,201402,Ágora Investimentos,0.11,-6.25
-2014,02,201402,Ativa Investimentos,-0.47,-7.61
-2014,02,201402,BB Investimentos,-3.72,-13.66
-2014,02,201402,Citi Corretora,-6.4,-13.76
-2014,02,201402,Genial Investimentos,3.14,-2.96
-2014,02,201402,Guide Investimentos,-3.74,-11.2
-2014,02,201402,Planner Corretora,-2.64,-11.84
-2014,02,201402,Rico Corretora,-1.92,-10.04
-2014,02,201402,Santander Corretora,0.82,-10.27
-2014,02,201402,Souza Barros CCT,-3.9,-10.61
-2014,02,201402,Votorantim Corretora,-6.84,-13.95
-2014,02,201402,XP Investimentos,2.38,-6.81
-2014,01,201401,Ágora Investimentos,-6.35,-6.35
-2014,01,201401,Ativa Investimentos,-7.17,-7.17
-2014,01,201401,BB Investimentos,-10.32,-10.32
-2014,01,201401,BTG Pactual,-3.91,-3.91
-2014,01,201401,Citi Corretora,-7.86,-7.86
-2014,01,201401,Genial Investimentos,-5.91,-5.91
-2014,01,201401,Guide Investimentos,-7.75,-7.75
-2014,01,201401,Planner Corretora,-9.45,-9.45
-2014,01,201401,Rico Corretora,-8.28,-8.28
-2014,01,201401,Santander Corretora,-11.0,-11.0
-2014,01,201401,Souza Barros CCT,-6.98,-6.98
-2014,01,201401,Votorantim Corretora,-7.63,-7.63
-2014,01,201401,XP Investimentos,-8.98,-8.98
-2013,12,201312,Ágora Investimentos,-3.72,14.09
-2013,12,201312,Ativa Investimentos,0.34,-8.34
-2013,12,201312,Citi Corretora,-2.0,8.18
-2013,12,201312,Genial Investimentos,-3.19,14.43
-2013,12,201312,Guide Investimentos,-2.3,-4.6
-2013,12,201312,Planner Corretora,-4.24,-13.78
-2013,12,201312,Rico Corretora,-3.35,8.32
-2013,12,201312,Santander Corretora,1.8,17.63
-2013,12,201312,Souza Barros CCT,-3.95,-4.57
-2013,12,201312,XP Investimentos,-1.51,-5.74
-2013,11,201311,Ágora Investimentos,-2.6,18.5
-2013,11,201311,Ativa Investimentos,-5.87,-8.65
-2013,11,201311,Citi Corretora,-1.69,10.39
-2013,11,201311,Genial Investimentos,3.36,18.2
-2013,11,201311,Guide Investimentos,-2.56,-2.35
-2013,11,201311,Planner Corretora,-1.77,-9.97
-2013,11,201311,Rico Corretora,1.0,12.08
-2013,11,201311,Santander Corretora,1.33,15.55
-2013,11,201311,Souza Barros CCT,-1.89,-0.64
-2013,11,201311,XP Investimentos,-1.17,-4.29
-2013,10,201310,Ágora Investimentos,9.11,21.67
-2013,10,201310,Ativa Investimentos,4.17,-2.96
-2013,10,201310,Citi Corretora,7.07,12.29
-2013,10,201310,Genial Investimentos,4.25,14.36
-2013,10,201310,Guide Investimentos,5.02,0.21
-2013,10,201310,Planner Corretora,0.47,-8.34
-2013,10,201310,Rico Corretora,3.58,10.97
-2013,10,201310,Santander Corretora,3.37,14.03
-2013,10,201310,Souza Barros CCT,5.45,1.27
-2013,10,201310,XP Investimentos,3.26,-3.16
-2013,09,201309,Ágora Investimentos,3.74,11.51
-2013,09,201309,Ativa Investimentos,3.3,-6.84
-2013,09,201309,Citi Corretora,0.25,4.87
-2013,09,201309,Genial Investimentos,3.69,9.7
-2013,09,201309,Guide Investimentos,3.78,-4.58
-2013,09,201309,Planner Corretora,5.56,-8.77
-2013,09,201309,Rico Corretora,6.54,7.13
-2013,09,201309,Santander Corretora,0.46,10.31
-2013,09,201309,Souza Barros CCT,3.37,-3.96
-2013,09,201309,XP Investimentos,3.98,-6.21
-2013,08,201308,Ágora Investimentos,0.96,7.49
-2013,08,201308,Ativa Investimentos,3.7,-9.82
-2013,08,201308,Citi Corretora,6.24,4.61
-2013,08,201308,Genial Investimentos,0.18,5.8
-2013,08,201308,Guide Investimentos,2.59,-8.05
-2013,08,201308,Planner Corretora,-0.69,-13.58
-2013,08,201308,Rico Corretora,2.62,0.56
-2013,08,201308,Santander Corretora,2.9,9.81
-2013,08,201308,Souza Barros CCT,-0.19,-7.09
-2013,08,201308,XP Investimentos,-3.14,-9.8
-2013,07,201307,Ágora Investimentos,5.79,6.47
-2013,07,201307,Ativa Investimentos,2.02,-13.04
-2013,07,201307,Citi Corretora,5.0,-1.53
-2013,07,201307,Genial Investimentos,3.52,5.61
-2013,07,201307,Guide Investimentos,4.32,-10.38
-2013,07,201307,Planner Corretora,4.07,-12.98
-2013,07,201307,Rico Corretora,3.18,-2.01
-2013,07,201307,Santander Corretora,3.16,6.71
-2013,07,201307,Souza Barros CCT,5.87,-6.91
-2013,07,201307,XP Investimentos,2.69,-6.88
-2013,06,201306,Ágora Investimentos,-10.67,0.64
-2013,06,201306,Ativa Investimentos,-9.4,-14.76
-2013,06,201306,Citi Corretora,-10.05,-6.22
-2013,06,201306,Genial Investimentos,-5.14,2.02
-2013,06,201306,Guide Investimentos,-5.94,-14.09
-2013,06,201306,Planner Corretora,-10.38,-16.38
-2013,06,201306,Rico Corretora,-6.26,-5.03
-2013,06,201306,Santander Corretora,-6.22,3.44
-2013,06,201306,Souza Barros CCT,-6.92,-12.08
-2013,06,201306,XP Investimentos,-9.42,-9.32
-2013,05,201305,Ágora Investimentos,1.08,12.66
-2013,05,201305,Ativa Investimentos,-2.6,-5.91
-2013,05,201305,Citi Corretora,0.16,4.26
-2013,05,201305,Genial Investimentos,4.46,7.54
-2013,05,201305,Guide Investimentos,-0.55,-8.66
-2013,05,201305,Planner Corretora,0.7,-6.7
-2013,05,201305,Rico Corretora,0.45,1.31
-2013,05,201305,Santander Corretora,3.64,10.3
-2013,05,201305,Souza Barros CCT,-1.44,-5.54
-2013,05,201305,XP Investimentos,-0.66,0.11
-2013,04,201304,Ágora Investimentos,5.83,11.46
-2013,04,201304,Ativa Investimentos,1.22,-3.4
-2013,04,201304,Citi Corretora,-1.0,4.09
-2013,04,201304,Genial Investimentos,3.19,2.95
-2013,04,201304,Guide Investimentos,1.57,-8.16
-2013,04,201304,Planner Corretora,-0.84,-7.34
-2013,04,201304,Rico Corretora,1.89,0.86
-2013,04,201304,Santander Corretora,4.18,6.43
-2013,04,201304,Souza Barros CCT,-5.34,-4.16
-2013,04,201304,XP Investimentos,-7.43,0.78
-2013,03,201303,Ágora Investimentos,-1.68,5.32
-2013,03,201303,Ativa Investimentos,-1.86,-4.57
-2013,03,201303,Citi Corretora,0.89,5.14
-2013,03,201303,Genial Investimentos,1.44,-0.23
-2013,03,201303,Guide Investimentos,-1.95,-9.58
-2013,03,201303,Planner Corretora,1.14,-6.56
-2013,03,201303,Rico Corretora,2.77,-1.01
-2013,03,201303,Santander Corretora,-1.07,2.16
-2013,03,201303,Souza Barros CCT,-0.55,1.25
-2013,03,201303,XP Investimentos,-1.74,8.86
-2013,02,201302,Ágora Investimentos,2.18,7.12
-2013,02,201302,Ativa Investimentos,-3.26,-2.76
-2013,02,201302,Citi Corretora,-1.34,4.21
-2013,02,201302,Genial Investimentos,-0.16,-1.65
-2013,02,201302,Guide Investimentos,-3.31,-7.78
-2013,02,201302,Planner Corretora,-3.28,-7.61
-2013,02,201302,Rico Corretora,-2.6,-3.68
-2013,02,201302,Santander Corretora,1.18,3.26
-2013,02,201302,Souza Barros CCT,-1.54,1.81
-2013,02,201302,XP Investimentos,4.61,10.79
-2013,01,201301,Ágora Investimentos,4.83,4.83
-2013,01,201301,Ativa Investimentos,0.52,0.52
-2013,01,201301,Citi Corretora,5.63,5.63
-2013,01,201301,Genial Investimentos,-1.49,-1.49
-2013,01,201301,Guide Investimentos,-4.62,-4.62
-2013,01,201301,Planner Corretora,-4.48,-4.48
-2013,01,201301,Rico Corretora,-1.11,-1.11
-2013,01,201301,Santander Corretora,2.06,2.06
-2013,01,201301,Souza Barros CCT,3.4,3.4
-2013,01,201301,XP Investimentos,5.91,5.91
-2012,12,201212,Ágora Investimentos,7.85,39.23
-2012,12,201212,Ativa Investimentos,13.23,32.29
-2012,12,201212,Citi Corretora,7.37,19.07
-2012,12,201212,Genial Investimentos,5.98,27.78
-2012,12,201212,Guide Investimentos,13.12,26.11
-2012,12,201212,Planner Corretora,1.24,-15.55
-2012,12,201212,Rico Corretora,6.7,35.49
-2012,12,201212,Santander Corretora,5.62,26.86
-2012,12,201212,Souza Barros CCT,1.09,52.04
-2012,12,201212,XP Investimentos,10.02,24.06
-2012,11,201211,Ágora Investimentos,-0.26,29.1
-2012,11,201211,Ativa Investimentos,3.37,16.84
-2012,11,201211,Citi Corretora,-1.08,10.9
-2012,11,201211,Genial Investimentos,7.5,20.57
-2012,11,201211,Guide Investimentos,-3.77,11.49
-2012,11,201211,Planner Corretora,0.01,-16.59
-2012,11,201211,Rico Corretora,3.87,26.98
-2012,11,201211,Santander Corretora,1.12,20.11
-2012,11,201211,Souza Barros CCT,3.44,50.4
-2012,11,201211,XP Investimentos,4.11,12.76
-2012,10,201210,Ágora Investimentos,1.86,29.44
-2012,10,201210,Ativa Investimentos,6.04,13.02
-2012,10,201210,Citi Corretora,-0.63,12.11
-2012,10,201210,Genial Investimentos,-2.65,12.16
-2012,10,201210,Guide Investimentos,-3.19,15.86
-2012,10,201210,Planner Corretora,-0.95,-16.59
-2012,10,201210,Rico Corretora,-7.31,22.25
-2012,10,201210,Santander Corretora,2.47,18.78
-2012,10,201210,Souza Barros CCT,0.38,45.39
-2012,10,201210,XP Investimentos,-1.45,8.31
-2012,09,201209,Ágora Investimentos,7.98,27.07
-2012,09,201209,Ativa Investimentos,5.08,6.59
-2012,09,201209,Citi Corretora,1.2,12.82
-2012,09,201209,Genial Investimentos,4.71,15.21
-2012,09,201209,Guide Investimentos,5.43,19.68
-2012,09,201209,Planner Corretora,1.46,-15.79
-2012,09,201209,Rico Corretora,4.01,31.9
-2012,09,201209,Santander Corretora,4.6,15.92
-2012,09,201209,Souza Barros CCT,5.41,44.84
-2012,09,201209,XP Investimentos,4.01,9.91
-2012,08,201208,Ágora Investimentos,-0.11,17.68
-2012,08,201208,Ativa Investimentos,-1.78,1.44
-2012,08,201208,Citi Corretora,-0.64,11.49
-2012,08,201208,Genial Investimentos,0.22,10.02
-2012,08,201208,Guide Investimentos,-3.6,13.51
-2012,08,201208,Planner Corretora,5.25,-17.0
-2012,08,201208,Rico Corretora,0.66,26.81
-2012,08,201208,Santander Corretora,1.14,10.82
-2012,08,201208,Souza Barros CCT,2.17,37.4
-2012,08,201208,XP Investimentos,0.23,5.67
-2012,07,201207,Ágora Investimentos,6.83,17.81
-2012,07,201207,Ativa Investimentos,1.88,3.28
-2012,07,201207,Citi Corretora,-1.73,12.2
-2012,07,201207,Genial Investimentos,1.36,9.78
-2012,07,201207,Guide Investimentos,-5.99,17.76
-2012,07,201207,Planner Corretora,-4.8,-21.14
-2012,07,201207,Rico Corretora,5.37,25.99
-2012,07,201207,Santander Corretora,5.15,9.58
-2012,07,201207,Souza Barros CCT,1.42,34.48
-2012,07,201207,XP Investimentos,-0.13,5.43
-2012,06,201206,Ágora Investimentos,5.18,10.28
-2012,06,201206,Ativa Investimentos,6.74,1.38
-2012,06,201206,Citi Corretora,8.4,14.17
-2012,06,201206,Genial Investimentos,4.21,8.3
-2012,06,201206,Guide Investimentos,5.16,25.26
-2012,06,201206,Planner Corretora,-5.29,-17.17
-2012,06,201206,Rico Corretora,3.32,19.57
-2012,06,201206,Santander Corretora,2.86,4.21
-2012,06,201206,Souza Barros CCT,0.01,32.59
-2012,06,201206,XP Investimentos,5.35,5.57
-2012,05,201205,Ágora Investimentos,-11.27,4.85
-2012,05,201205,Ativa Investimentos,-9.75,-5.03
-2012,05,201205,Citi Corretora,-11.21,5.33
-2012,05,201205,Genial Investimentos,-12.89,3.93
-2012,05,201205,Guide Investimentos,-9.3,19.11
-2012,05,201205,Planner Corretora,-16.44,-12.54
-2012,05,201205,Rico Corretora,-7.32,15.72
-2012,05,201205,Santander Corretora,-10.82,1.31
-2012,05,201205,Souza Barros CCT,-0.97,32.58
-2012,05,201205,XP Investimentos,-7.62,0.2
-2012,04,201204,Ágora Investimentos,1.79,18.16
-2012,04,201204,Ativa Investimentos,-4.84,5.23
-2012,04,201204,Citi Corretora,-0.42,18.63
-2012,04,201204,Genial Investimentos,4.73,19.31
-2012,04,201204,Guide Investimentos,4.82,31.32
-2012,04,201204,Planner Corretora,-6.87,4.67
-2012,04,201204,Rico Corretora,2.45,24.86
-2012,04,201204,Santander Corretora,0.58,13.6
-2012,04,201204,Souza Barros CCT,3.14,33.88
-2012,04,201204,XP Investimentos,-5.18,8.47
-2012,03,201203,Ágora Investimentos,-4.27,16.08
-2012,03,201203,Ativa Investimentos,-2.7,10.58
-2012,03,201203,Citi Corretora,2.09,19.13
-2012,03,201203,Genial Investimentos,-2.17,13.92
-2012,03,201203,Guide Investimentos,6.32,25.29
-2012,03,201203,Planner Corretora,-8.57,12.4
-2012,03,201203,Rico Corretora,0.88,21.88
-2012,03,201203,Santander Corretora,0.08,12.94
-2012,03,201203,Souza Barros CCT,9.81,29.8
-2012,03,201203,XP Investimentos,1.04,14.4
-2012,02,201202,Ágora Investimentos,13.02,21.26
-2012,02,201202,Ativa Investimentos,7.88,13.65
-2012,02,201202,Citi Corretora,5.2,16.7
-2012,02,201202,Genial Investimentos,5.27,16.45
-2012,02,201202,Guide Investimentos,8.11,17.84
-2012,02,201202,Planner Corretora,10.31,22.93
-2012,02,201202,Rico Corretora,10.81,20.81
-2012,02,201202,Santander Corretora,7.36,12.84
-2012,02,201202,Souza Barros CCT,9.2,18.2
-2012,02,201202,XP Investimentos,7.33,13.23
-2012,01,201201,Ágora Investimentos,7.29,7.29
-2012,01,201201,Ativa Investimentos,5.35,5.35
-2012,01,201201,Citi Corretora,10.93,10.93
-2012,01,201201,Genial Investimentos,10.62,10.62
-2012,01,201201,Guide Investimentos,9.0,9.0
-2012,01,201201,Planner Corretora,11.43,11.43
-2012,01,201201,Rico Corretora,9.03,9.03
-2012,01,201201,Santander Corretora,5.11,5.11
-2012,01,201201,Souza Barros CCT,8.25,8.25
-2012,01,201201,XP Investimentos,5.49,5.49
+2020,03,202003,Ágora Investimentos,-27.35,-31.71
+2020,03,202003,Ativa Investimentos,-35.82,-41.27
+2020,03,202003,BB Investimentos,-37.19,-41.13
+2020,03,202003,CM Capital Corretora 3,-36.66,-43.86
+2020,03,202003,Elite Investimentos,-26.67,-28.65
+2020,03,202003,Genial Investimentos,-31.68,-30.2
+2020,03,202003,Guide Investimentos,-31.04,-29.56
+2020,03,202003,Mirae Corretora,-31.87,-36.07
+2020,03,202003,Modalmais,-25.32,-35.21
+2020,03,202003,MyCAP Investimentos 3,-29.07,-34.27
+2020,03,202003,Necton,-36.63,-40.01
+2020,03,202003,Nova Futura Investimentos,-18.43,-15.1
+2020,03,202003,Planner Corretora,-24.61,-34.69
+2020,03,202003,Safra Corretora,-38.75,-44.7
+2020,03,202003,Santander Corretora,-45.02,-50.87
+2020,03,202003,Socopa Corretora,-24.49,-38.76
+2020,03,202003,Terra Investimentos,-37.74,-44.6
+2020,03,202003,XP Investimentos,-39.44,-42.09
+2020,04,202004,Ágora Investimentos,5.62,-27.87
+2020,04,202004,Ativa Investimentos,4.1,-38.86
+2020,04,202004,BB Investimentos,12.27,-33.9
+2020,04,202004,CM Capital Corretora 3,15.95,-34.91
+2020,04,202004,Elite Investimentos,6.51,-24.0
+2020,04,202004,Genial Investimentos,7.5,-24.96
+2020,04,202004,Guide Investimentos,26.22,-11.09
+2020,04,202004,Mirae Corretora,18.38,-24.32
+2020,04,202004,Modalmais,29.78,-15.92
+2020,04,202004,MyCAP Investimentos 3,7.97,-29.04
+2020,04,202004,Necton,14.77,-31.15
+2020,04,202004,Nova Futura Investimentos,4.39,-11.37
+2020,04,202004,Planner Corretora,12.34,-26.63
+2020,04,202004,Safra Corretora,5.15,-41.85
+2020,04,202004,Santander Corretora,16.69,-42.67
+2020,04,202004,Socopa Corretora,10.62,-32.26
+2020,04,202004,Terra Investimentos,8.0,-40.17
+2020,04,202004,XP Investimentos,5.25,-39.05
+2020,05,202005,Ágora Investimentos,7.47,-22.48
+2020,05,202005,Ativa Investimentos,0.19,-38.74
+2020,05,202005,BB Investimentos,15.69,-23.53
+2020,05,202005,CM Capital Corretora 3,-1.2,-35.69
+2020,05,202005,Elite Investimentos,15.43,-12.28
+2020,05,202005,Genial Investimentos,4.21,-21.81
+2020,05,202005,Guide Investimentos,15.26,2.48
+2020,05,202005,Mirae Corretora,16.23,-12.04
+2020,05,202005,Modalmais,1.67,-14.51
+2020,05,202005,MyCAP Investimentos 3,16.02,-17.67
+2020,05,202005,Necton,6.47,-26.7
+2020,05,202005,Nova Futura Investimentos,17.19,3.86
+2020,05,202005,Planner Corretora,7.49,-21.14
+2020,05,202005,Safra Corretora,9.71,-36.21
+2020,05,202005,Santander Corretora,-0.95,-43.21
+2020,05,202005,Socopa Corretora,5.58,-28.48
+2020,05,202005,Terra Investimentos,13.46,-32.12
+2020,05,202005,XP Investimentos,3.19,-37.11
+2020,06,202006,Ágora Investimentos,10.86,-14.06
+2020,06,202006,Ativa Investimentos,6.08,-35.02
+2020,06,202006,BB Investimentos,10.6,-15.42
+2020,06,202006,CM Capital Corretora 3,15.27,-25.87
+2020,06,202006,Elite Investimentos,10.16,-3.36
+2020,06,202006,Genial Investimentos,13.85,-10.98
+2020,06,202006,Guide Investimentos,17.77,20.7
+2020,06,202006,Mirae Corretora,6.22,-6.57
+2020,06,202006,Modalmais,13.32,-3.13
+2020,06,202006,MyCAP Investimentos 3,4.54,-13.93
+2020,06,202006,Necton,10.17,-19.24
+2020,06,202006,Nova Futura Investimentos,10.53,14.8
+2020,06,202006,Planner Corretora,10.56,-12.81
+2020,06,202006,Safra Corretora,12.09,-28.5
+2020,06,202006,Santander Corretora,5.06,-40.34
+2020,06,202006,Socopa Corretora,6.05,-24.15
+2020,06,202006,Terra Investimentos,10.74,-24.83
+2020,06,202006,XP Investimentos,3.46,-34.94
+2020,07,202007,Ágora Investimentos,10.48,-5.05
+2020,07,202007,Ativa Investimentos,10.36,-28.28
+2020,07,202007,BB Investimentos,19.37,0.96
+2020,07,202007,CM Capital Corretora 3,15.09,-14.68
+2020,07,202007,Elite Investimentos,6.65,3.07
+2020,07,202007,Genial Investimentos,16.13,3.38
+2020,07,202007,Guide Investimentos,14.59,38.3
+2020,07,202007,Mirae Corretora,18.19,10.43
+2020,07,202007,Modalmais,4.47,1.2
+2020,07,202007,MyCAP Investimentos 3,7.62,-7.37
+2020,07,202007,Necton,13.89,-8.03
+2020,07,202007,Nova Futura Investimentos,15.95,33.11
+2020,07,202007,Planner Corretora,8.94,-5.02
+2020,07,202007,Safra Corretora,9.15,-21.96
+2020,07,202007,Santander Corretora,7.76,-35.71
+2020,07,202007,Socopa Corretora,5.34,-20.1
+2020,07,202007,Terra Investimentos,7.8,-18.96
+2020,07,202007,XP Investimentos,8.67,-29.29
+2020,08,202008,Ágora Investimentos,2.93,-2.27
+2020,08,202008,Ativa Investimentos,2.2,-26.71
+2020,08,202008,BB Investimentos,4.56,5.56
+2020,08,202008,CM Capital Corretora 3,-3.98,-18.08
+2020,08,202008,Elite Investimentos,1.74,4.86
+2020,08,202008,Genial Investimentos,9.58,13.28
+2020,08,202008,Guide Investimentos,-7.91,27.36
+2020,08,202008,Mirae Corretora,4.9,15.84
+2020,08,202008,Modalmais,-5.06,-3.91
+2020,08,202008,MyCAP Investimentos 3,5.76,-2.03
+2020,08,202008,Necton,1.05,-7.06
+2020,08,202008,Nova Futura Investimentos,-0.08,33.0
+2020,08,202008,Planner Corretora,-0.19,-5.21
+2020,08,202008,Safra Corretora,0.79,-21.34
+2020,08,202008,Santander Corretora,-6.23,-39.71
+2020,08,202008,Socopa Corretora,-2.95,-22.46
+2020,08,202008,Terra Investimentos,7.46,-12.91
+2020,08,202008,XP Investimentos,5.8,-25.19
